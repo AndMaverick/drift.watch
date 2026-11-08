@@ -7,7 +7,7 @@ name = "drift.watch"
 version = "0.1.0"
 description = "Drift detection for model inputs and outputs: population stability index, categorical PSI, and KS statistic with status bands. Dependency-free Python."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "AndMaverick LLC" }]
 
