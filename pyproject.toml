@@ -4,8 +4,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "drift.watch"
-version = "0.1.0"
-description = "Drift detection for model inputs and outputs: population stability index, categorical PSI, and KS statistic with status bands. Dependency-free Python."
+version = "0.2.0"
+description = "Drift detection that knows the difference between drift and sampling noise: PSI with noise floors and p-values, KS, Wasserstein, chi-square, multiple-testing control, text and LLM-prompt features, streaming change detectors, and a CLI with CI exit codes. Dependency-free Python."
+classifiers = ["Typing :: Typed", "Programming Language :: Python :: 3", "License :: OSI Approved :: MIT License"]
+keywords = ["drift", "psi", "monitoring", "mlops", "llm", "data-quality"]
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
@@ -13,3 +15,21 @@ authors = [{ name = "AndMaverick LLC" }]
 
 [tool.setuptools.packages.find]
 include = ["drift_watch*"]
+
+[tool.setuptools.package-data]
+drift_watch = ["py.typed"]
+
+[project.scripts]
+drift-watch = "drift_watch.cli:main"
+
+[tool.ruff]
+line-length = 130
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "C4", "SIM"]
+ignore = ["E501"]
+
+[tool.mypy]
+strict = true
+files = ["drift_watch"]

@@ -1,68 +1,45 @@
-"""drift.watch: population stability and distribution drift for model inputs and outputs."""
+"""drift.watch: drift detection that knows the difference between drift and sampling noise.
 
+Fit a baseline once, check any later window against it, and get a per-feature verdict that accounts for sample size
+(PSI noise floors and p-values), for watching many features at once (Benjamini-Hochberg), and for the changes PSI cannot
+see (nulls, values outside the training range, unseen categories, type changes). Includes text and LLM-prompt features,
+streaming change detectors, and a CLI whose exit code can gate a pipeline.
+"""
 from __future__ import annotations
 
-import math
-from bisect import bisect_right
+from .baseline import Baseline, CategoricalBaseline, NumericBaseline, fit_categorical, fit_numeric, infer_kind
+from .io import read_rows
+from .measures import (
+    EPS,
+    bh_adjust,
+    binomial_sf,
+    categorical_psi,
+    chi2_sf,
+    chi_square,
+    jensen_shannon,
+    kolmogorov_sf,
+    ks_stat,
+    ks_test,
+    psi,
+    psi_noise_floor,
+    psi_pvalue,
+    quantile_edges,
+    range_exceed_p,
+    report,
+    status,
+    two_proportion_p,
+    wasserstein,
+)
+from .monitor import DriftReport, FeatureDrift, Policy, assess, check
+from .stream import DDM, EWMA, PageHinkley, WindowResult, first_alert, scan
+from .text import dominant_script, features, vocabulary
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
-EPS = 1e-4
-
-
-def _quantile_edges(values, bins: int) -> list:
-    ordered = sorted(values)
-    edges = {ordered[min(len(ordered) - 1, int(i * len(ordered) / bins))] for i in range(1, bins)}
-    return sorted(edges)
-
-
-def _proportions(values, edges) -> list:
-    counts = [0] * (len(edges) + 1)
-    for value in values:
-        counts[bisect_right(edges, value)] += 1
-    total = len(values)
-    return [max(c / total, EPS) for c in counts]
-
-
-def _psi_from(expected, actual) -> float:
-    return sum((a - e) * math.log(a / e) for e, a in zip(expected, actual))
-
-
-def psi(expected, actual, bins: int = 10) -> float:
-    """Population Stability Index of actual against expected, using expected's quantile bins."""
-    if not expected or not actual:
-        raise ValueError("both samples must be non-empty")
-    edges = _quantile_edges(expected, bins)
-    return _psi_from(_proportions(expected, edges), _proportions(actual, edges))
-
-
-def categorical_psi(expected: dict, actual: dict) -> float:
-    keys = sorted(set(expected) | set(actual))
-    e_total, a_total = sum(expected.values()), sum(actual.values())
-    e = [max(expected.get(k, 0) / e_total, EPS) for k in keys]
-    a = [max(actual.get(k, 0) / a_total, EPS) for k in keys]
-    return _psi_from(e, a)
-
-
-def ks_stat(a, b) -> float:
-    """Two-sample Kolmogorov-Smirnov statistic: the largest gap between empirical CDFs."""
-    left, right = sorted(a), sorted(b)
-    points = sorted(set(left) | set(right))
-    worst = 0.0
-    for point in points:
-        gap = abs(bisect_right(left, point) / len(left) - bisect_right(right, point) / len(right))
-        worst = max(worst, gap)
-    return worst
-
-
-def status(value: float) -> str:
-    if value < 0.1:
-        return "stable"
-    if value < 0.25:
-        return "moderate"
-    return "major"
-
-
-def report(expected, actual, bins: int = 10) -> dict:
-    p = psi(expected, actual, bins)
-    return {"psi": round(p, 4), "ks": round(ks_stat(expected, actual), 4), "status": status(p)}
+__all__ = [
+    "EPS", "psi", "categorical_psi", "ks_stat", "ks_test", "status", "report", "wasserstein", "jensen_shannon", "chi_square", "chi2_sf",
+    "kolmogorov_sf", "psi_noise_floor", "psi_pvalue", "two_proportion_p", "bh_adjust", "binomial_sf", "range_exceed_p", "quantile_edges",
+    "Baseline", "NumericBaseline", "CategoricalBaseline", "fit_numeric", "fit_categorical", "infer_kind",
+    "Policy", "FeatureDrift", "DriftReport", "check", "assess", "read_rows",
+    "PageHinkley", "DDM", "EWMA", "scan", "first_alert", "WindowResult", "features", "dominant_script", "vocabulary", "__version__",
+]
