@@ -1,0 +1,800 @@
+{"score": 0.6692, "tokens": 121, "channel": "web", "country": "ID", "prompt": "subscription shipping subscription cancel cancel shipping card status address address payment address card"}
+{"score": 0.6208, "tokens": 106, "channel": "email", "country": "ID", "prompt": "delivery invoice subscription subscription address subscription payment refund account status"}
+{"score": 0.3928, "tokens": 107, "channel": "email", "country": "ID", "prompt": "cancel account card order cancel"}
+{"score": 0.5391, "tokens": 141, "channel": "web", "country": "ID", "prompt": "invoice card subscription payment payment refund delivery order refund return cancel order shipping"}
+{"score": 0.6866, "tokens": 127, "channel": "app", "country": "SA", "prompt": "shipping return subscription subscription invoice card subscription status shipping return address card"}
+{"score": 0.8366, "tokens": 145, "channel": "web", "country": "SA", "prompt": "address status cancel address account cancel order shipping address payment card subscription"}
+{"score": 0.5965, "tokens": 206, "channel": "email", "country": "ID", "prompt": "order cancel order card status address status delivery order refund status"}
+{"score": 0.8207, "tokens": 105, "channel": "app", "country": "SA", "prompt": "status payment order status return invoice card"}
+{"score": 0.5133, "tokens": 115, "channel": "web", "country": "GB", "prompt": "address payment delivery refund order cancel refund account account address refund"}
+{"score": 0.613, "tokens": 133, "channel": "email", "country": "AE", "prompt": "delivery payment card account status shipping refund"}
+{"score": 0.7215, "tokens": 246, "channel": "email", "country": "AE", "prompt": "card return delivery return cancel"}
+{"score": 0.7269, "tokens": 152, "channel": "web", "country": "SA", "prompt": "invoice payment cancel account delivery delivery payment subscription address invoice delivery"}
+{"score": 0.6685, "tokens": 127, "channel": "app", "country": "SA", "prompt": "cancel invoice subscription cancel shipping card"}
+{"score": 0.3916, "tokens": 175, "channel": "app", "country": "AE", "prompt": "shipping invoice return return status status"}
+{"score": 0.5817, "tokens": 114, "channel": "web", "country": "AE", "prompt": "shipping return return delivery shipping payment"}
+{"score": 0.8455, "tokens": 273, "channel": "app", "country": "SA", "prompt": "card refund order refund order shipping status subscription account"}
+{"score": 0.6369, "tokens": 112, "channel": "app", "country": "ID", "prompt": "status status card shipping order account payment subscription invoice invoice"}
+{"score": 0.5822, "tokens": 104, "channel": "app", "country": "AE", "prompt": "return account cancel status account status return order shipping"}
+{"score": 0.7818, "tokens": 157, "channel": "email", "country": "AE", "prompt": "card account address shipping address delivery refund return status status"}
+{"score": 0.4847, "tokens": 236, "channel": "web", "country": "SA", "prompt": "address status shipping subscription payment invoice"}
+{"score": 0.7032, "tokens": 228, "channel": "web", "country": "AE", "prompt": "payment subscription shipping cancel subscription cancel card subscription"}
+{"score": 0.5935, "tokens": 99, "channel": "web", "country": "AE", "prompt": "address cancel shipping account delivery card payment refund account subscription payment card refund"}
+{"score": 0.7329, "tokens": 337, "channel": "app", "country": "AE", "prompt": "subscription refund delivery cancel status status"}
+{"score": 0.5876, "tokens": 116, "channel": "web", "country": "AE", "prompt": "order card status account return shipping"}
+{"score": 0.6607, "tokens": 166, "channel": "web", "country": "AE", "prompt": "cancel shipping subscription account address"}
+{"score": 0.3777, "tokens": 125, "channel": "web", "country": "AE", "prompt": "cancel payment cancel shipping refund"}
+{"score": 0.7206, "tokens": 148, "channel": "web", "country": "AE", "prompt": "order account order address refund invoice invoice"}
+{"score": 0.7116, "tokens": 121, "channel": "web", "country": "ID", "prompt": "account refund subscription address address invoice shipping delivery card status account cancel shipping payment"}
+{"score": 0.6905, "tokens": 65, "channel": "web", "country": "GB", "prompt": "card address account delivery return shipping order invoice address account"}
+{"score": 0.5107, "tokens": 136, "channel": "app", "country": "SA", "prompt": "invoice status shipping card status account"}
+{"score": 0.7019, "tokens": 209, "channel": "email", "country": "AE", "prompt": "payment card shipping refund card delivery invoice return order status status address address"}
+{"score": 0.5092, "tokens": 179, "channel": "web", "country": "SA", "prompt": "payment shipping account status delivery return subscription delivery subscription subscription delivery shipping"}
+{"score": 0.7687, "tokens": 120, "channel": "app", "country": "AE", "prompt": "order invoice card delivery return subscription subscription"}
+{"score": 0.5263, "tokens": 132, "channel": "web", "country": "SA", "prompt": "refund payment refund address invoice return delivery invoice address"}
+{"score": 0.6624, "tokens": 152, "channel": "web", "country": "SA", "prompt": "shipping return invoice payment order payment payment account account account delivery subscription cancel"}
+{"score": 0.7023, "tokens": 195, "channel": "app", "country": "AE", "prompt": "invoice card cancel order delivery cancel address return order shipping cancel account"}
+{"score": 0.6901, "tokens": 101, "channel": "web", "country": "AE", "prompt": "return order address shipping refund shipping refund"}
+{"score": 0.3433, "tokens": 104, "channel": "email", "country": "AE", "prompt": "return return shipping card shipping cancel subscription"}
+{"score": 0.6603, "tokens": 237, "channel": "web", "country": "ID", "prompt": "delivery account return refund refund order status return address invoice return"}
+{"score": 0.687, "tokens": 103, "channel": "app", "country": "GB", "prompt": "shipping payment account payment cancel return card account"}
+{"score": 0.6497, "tokens": 111, "channel": "web", "country": "SA", "prompt": "order cancel return order order return shipping delivery delivery shipping delivery subscription"}
+{"score": 0.6168, "tokens": 121, "channel": "app", "country": "SA", "prompt": "payment order address status subscription card status status subscription shipping"}
+{"score": 0.5531, "tokens": 126, "channel": "web", "country": "AE", "prompt": "address subscription address invoice order refund payment card order address address subscription status"}
+{"score": 0.6025, "tokens": 194, "channel": "web", "country": "AE", "prompt": "subscription return refund status order"}
+{"score": 0.4837, "tokens": 146, "channel": "email", "country": "AE", "prompt": "card payment cancel card payment status card return"}
+{"score": 0.5355, "tokens": 279, "channel": "app", "country": "SA", "prompt": "address invoice cancel account return cancel status account cancel delivery payment status"}
+{"score": 0.666, "tokens": 128, "channel": "email", "country": "AE", "prompt": "address card subscription invoice refund return"}
+{"score": 0.7025, "tokens": 190, "channel": "web", "country": "AE", "prompt": "order card shipping account cancel subscription payment subscription shipping refund subscription cancel delivery"}
+{"score": 0.4712, "tokens": 147, "channel": "web", "country": "SA", "prompt": "refund shipping refund subscription refund return status status"}
+{"score": 0.6043, "tokens": 214, "channel": "email", "country": "SA", "prompt": "refund card status card shipping delivery delivery delivery"}
+{"score": 0.6604, "tokens": 138, "channel": "app", "country": "AE", "prompt": "account return order subscription cancel"}
+{"score": 0.4005, "tokens": 379, "channel": "app", "country": "GB", "prompt": "order address order return shipping shipping"}
+{"score": 0.7669, "tokens": 276, "channel": "app", "country": "SA", "prompt": "refund refund cancel delivery card order shipping return delivery subscription subscription payment refund"}
+{"score": 0.6237, "tokens": 65, "channel": "web", "country": "AE", "prompt": "address card refund card invoice address return address"}
+{"score": 0.649, "tokens": 70, "channel": "web", "country": "AE", "prompt": "order status delivery subscription invoice subscription subscription"}
+{"score": 0.802, "tokens": 90, "channel": "app", "country": "SA", "prompt": "card shipping invoice status subscription return account cancel invoice payment refund shipping delivery"}
+{"score": 0.4049, "tokens": 309, "channel": "web", "country": "GB", "prompt": "shipping status return address payment status address delivery shipping cancel cancel subscription"}
+{"score": 0.6053, "tokens": 71, "channel": "web", "country": "ID", "prompt": "delivery card card shipping cancel cancel address status account cancel cancel refund invoice"}
+{"score": 0.6602, "tokens": 106, "channel": "web", "country": "ID", "prompt": "account status subscription order card card account payment"}
+{"score": 0.583, "tokens": 125, "channel": "web", "country": "AE", "prompt": "card card shipping address delivery address cancel"}
+{"score": 0.381, "tokens": 70, "channel": "web", "country": "AE", "prompt": "cancel status subscription return order refund"}
+{"score": 0.6754, "tokens": 134, "channel": "web", "country": "ID", "prompt": "card card refund return payment"}
+{"score": 0.5423, "tokens": 79, "channel": "app", "country": "AE", "prompt": "invoice address address return account return card shipping status"}
+{"score": 0.549, "tokens": 73, "channel": "app", "country": "SA", "prompt": "status invoice card card cancel"}
+{"score": 0.4948, "tokens": 221, "channel": "web", "country": "AE", "prompt": "account invoice order status refund delivery status return return subscription order account shipping"}
+{"score": 0.5134, "tokens": 197, "channel": "web", "country": "AE", "prompt": "card account invoice payment account payment status cancel invoice subscription"}
+{"score": 0.5101, "tokens": 170, "channel": "web", "country": "SA", "prompt": "refund delivery order delivery return subscription subscription status order"}
+{"score": 0.5261, "tokens": 156, "channel": "app", "country": "AE", "prompt": "cancel address refund status return card"}
+{"score": 0.4511, "tokens": 193, "channel": "web", "country": "AE", "prompt": "shipping address delivery refund account invoice subscription payment status return refund subscription card"}
+{"score": 0.6435, "tokens": 105, "channel": "web", "country": "AE", "prompt": "payment order account return shipping refund order payment order card refund subscription"}
+{"score": 0.6751, "tokens": 104, "channel": "web", "country": "AE", "prompt": "invoice status address refund delivery status"}
+{"score": 0.3842, "tokens": 218, "channel": "web", "country": "SA", "prompt": "account delivery delivery account refund shipping order subscription address address refund status"}
+{"score": 0.7141, "tokens": 419, "channel": "email", "country": "AE", "prompt": "order card cancel subscription return delivery order subscription address"}
+{"score": 0.6656, "tokens": 208, "channel": "app", "country": "AE", "prompt": "shipping subscription refund subscription delivery shipping account invoice"}
+{"score": 0.4988, "tokens": 68, "channel": "app", "country": "SA", "prompt": "return subscription payment card shipping account account status invoice shipping account card cancel order"}
+{"score": 0.4582, "tokens": 111, "channel": "web", "country": "GB", "prompt": "cancel payment order cancel cancel subscription invoice"}
+{"score": 0.6759, "tokens": 366, "channel": "web", "country": "AE", "prompt": "order return payment account card"}
+{"score": 0.4572, "tokens": 386, "channel": "web", "country": "ID", "prompt": "address status delivery card cancel cancel status return status return payment"}
+{"score": 0.7126, "tokens": 121, "channel": "web", "country": "ID", "prompt": "order delivery return delivery account card address"}
+{"score": 0.6456, "tokens": 151, "channel": "email", "country": "ID", "prompt": "return refund card payment card account order return invoice return"}
+{"score": 0.819, "tokens": 157, "channel": "web", "country": "AE", "prompt": "invoice shipping refund invoice delivery subscription address invoice"}
+{"score": 0.5998, "tokens": 83, "channel": "web", "country": "AE", "prompt": "shipping card status refund status refund"}
+{"score": 0.6648, "tokens": 101, "channel": "web", "country": "AE", "prompt": "status order return delivery address"}
+{"score": 0.6867, "tokens": 179, "channel": "web", "country": "AE", "prompt": "payment return return order card return cancel cancel invoice invoice order refund refund"}
+{"score": 0.7193, "tokens": 119, "channel": "app", "country": "AE", "prompt": "subscription account card return subscription"}
+{"score": 0.5217, "tokens": 79, "channel": "web", "country": "ID", "prompt": "card refund return address address cancel card"}
+{"score": 0.7113, "tokens": 162, "channel": "web", "country": "SA", "prompt": "delivery status payment return cancel delivery refund order payment cancel payment order status order"}
+{"score": 0.4002, "tokens": 514, "channel": "app", "country": "SA", "prompt": "payment account invoice cancel refund card subscription address order payment address"}
+{"score": 0.6792, "tokens": 201, "channel": "web", "country": "ID", "prompt": "return order order cancel cancel subscription return account delivery subscription subscription card order"}
+{"score": 0.4752, "tokens": 218, "channel": "app", "country": "AE", "prompt": "delivery delivery return order delivery delivery payment subscription address"}
+{"score": 0.4754, "tokens": 212, "channel": "app", "country": "AE", "prompt": "status payment shipping card invoice account"}
+{"score": 0.6547, "tokens": 150, "channel": "email", "country": "SA", "prompt": "status cancel card subscription subscription payment subscription address cancel card refund"}
+{"score": 0.2376, "tokens": 194, "channel": "email", "country": "AE", "prompt": "delivery subscription card card refund order"}
+{"score": 0.5123, "tokens": 279, "channel": "web", "country": "ID", "prompt": "invoice card account account refund cancel return order return subscription refund delivery"}
+{"score": 0.6414, "tokens": 94, "channel": "web", "country": "AE", "prompt": "refund shipping delivery cancel invoice invoice account card status refund cancel shipping"}
+{"score": 0.6174, "tokens": 99, "channel": "web", "country": "SA", "prompt": "order account delivery account delivery"}
+{"score": 0.6165, "tokens": 46, "channel": "app", "country": "GB", "prompt": "address address subscription invoice status cancel order delivery payment"}
+{"score": 0.5759, "tokens": 331, "channel": "web", "country": "AE", "prompt": "subscription return address cancel shipping delivery address"}
+{"score": 0.7895, "tokens": 387, "channel": "app", "country": "SA", "prompt": "invoice delivery address payment account shipping invoice return card address"}
+{"score": 0.7003, "tokens": 132, "channel": "web", "country": "AE", "prompt": "card refund address cancel payment delivery delivery return shipping account invoice card"}
+{"score": 0.545, "tokens": 270, "channel": "web", "country": "SA", "prompt": "subscription cancel status card address payment refund return status invoice invoice address"}
+{"score": 0.8276, "tokens": 120, "channel": "web", "country": "AE", "prompt": "address card shipping refund account payment subscription"}
+{"score": 0.7128, "tokens": 87, "channel": "email", "country": "SA", "prompt": "refund subscription invoice card address refund shipping"}
+{"score": 0.5389, "tokens": 204, "channel": "web", "country": "SA", "prompt": "refund status status payment shipping"}
+{"score": 0.6156, "tokens": 141, "channel": "web", "country": "ID", "prompt": "subscription order shipping invoice delivery payment order return return address invoice"}
+{"score": 0.663, "tokens": 415, "channel": "web", "country": "GB", "prompt": "shipping order return cancel card delivery invoice"}
+{"score": 0.7004, "tokens": 107, "channel": "web", "country": "AE", "prompt": "card address subscription card order account delivery payment status"}
+{"score": 0.6382, "tokens": 247, "channel": "web", "country": "SA", "prompt": "delivery cancel payment order payment subscription order cancel invoice subscription order shipping cancel shipping"}
+{"score": 0.4262, "tokens": 272, "channel": "web", "country": "SA", "prompt": "delivery card account status delivery order return delivery account"}
+{"score": 0.7113, "tokens": 557, "channel": "web", "country": "ID", "prompt": "refund shipping return account cancel"}
+{"score": 0.6689, "tokens": 64, "channel": "web", "country": "AE", "prompt": "card invoice shipping status address cancel payment cancel status address"}
+{"score": 0.348, "tokens": 169, "channel": "web", "country": "SA", "prompt": "return subscription subscription account refund order account payment return invoice"}
+{"score": 0.6387, "tokens": 146, "channel": "app", "country": "SA", "prompt": "cancel refund shipping address delivery shipping refund shipping shipping cancel refund status account cancel"}
+{"score": 0.547, "tokens": 117, "channel": "web", "country": "SA", "prompt": "account subscription card account subscription order card invoice return refund status subscription payment return"}
+{"score": 0.5466, "tokens": 80, "channel": "web", "country": "AE", "prompt": "return delivery invoice subscription card subscription address"}
+{"score": 0.6595, "tokens": 154, "channel": "web", "country": "AE", "prompt": "card return delivery shipping shipping"}
+{"score": 0.6068, "tokens": 98, "channel": "app", "country": "GB", "prompt": "subscription order invoice return payment card card delivery cancel status shipping shipping refund refund"}
+{"score": 0.3828, "tokens": 239, "channel": "web", "country": "SA", "prompt": "refund cancel card shipping card delivery subscription delivery status"}
+{"score": 0.6353, "tokens": 148, "channel": "web", "country": "SA", "prompt": "refund card return account payment cancel order shipping return card order cancel subscription"}
+{"score": 0.6084, "tokens": 66, "channel": "web", "country": "GB", "prompt": "refund delivery account shipping return address card refund payment payment payment invoice status"}
+{"score": 0.5317, "tokens": 168, "channel": "web", "country": "AE", "prompt": "account card return account return shipping delivery address cancel return cancel return"}
+{"score": 0.5128, "tokens": 132, "channel": "app", "country": "AE", "prompt": "invoice invoice payment refund card payment subscription"}
+{"score": 0.6064, "tokens": 246, "channel": "email", "country": "ID", "prompt": "card address shipping delivery account account"}
+{"score": 0.6526, "tokens": 91, "channel": "email", "country": "ID", "prompt": "payment order order subscription card cancel delivery status return subscription"}
+{"score": 0.5328, "tokens": 126, "channel": "app", "country": "SA", "prompt": "subscription invoice account order account delivery"}
+{"score": 0.5212, "tokens": 247, "channel": "email", "country": "SA", "prompt": "invoice payment order order subscription invoice"}
+{"score": 0.6929, "tokens": 102, "channel": "web", "country": "ID", "prompt": "invoice cancel address invoice address status card delivery delivery subscription cancel delivery"}
+{"score": 0.6903, "tokens": 274, "channel": "web", "country": "SA", "prompt": "cancel order invoice shipping account payment cancel cancel"}
+{"score": 0.8221, "tokens": 575, "channel": "web", "country": "AE", "prompt": "account subscription refund return invoice order account"}
+{"score": 0.7141, "tokens": 213, "channel": "app", "country": "SA", "prompt": "status account subscription status refund payment refund subscription account status"}
+{"score": 0.8233, "tokens": 117, "channel": "web", "country": "ID", "prompt": "subscription shipping delivery refund address refund"}
+{"score": 0.713, "tokens": 164, "channel": "app", "country": "AE", "prompt": "cancel payment payment invoice subscription delivery card account"}
+{"score": 0.6624, "tokens": 105, "channel": "app", "country": "AE", "prompt": "delivery address account address return refund card cancel order"}
+{"score": 0.5128, "tokens": 303, "channel": "web", "country": "AE", "prompt": "invoice shipping order subscription status cancel address cancel shipping delivery status delivery"}
+{"score": 0.8048, "tokens": 52, "channel": "app", "country": "AE", "prompt": "refund invoice account cancel card refund payment return"}
+{"score": 0.6831, "tokens": 79, "channel": "web", "country": "SA", "prompt": "card order invoice address address return address payment shipping card return payment"}
+{"score": 0.6006, "tokens": 178, "channel": "web", "country": "GB", "prompt": "address account payment subscription card status refund delivery refund"}
+{"score": 0.5677, "tokens": 160, "channel": "web", "country": "AE", "prompt": "cancel card shipping payment card address shipping"}
+{"score": 0.4248, "tokens": 366, "channel": "email", "country": "AE", "prompt": "return subscription card refund order subscription card payment subscription cancel refund card account payment"}
+{"score": 0.7924, "tokens": 131, "channel": "email", "country": "AE", "prompt": "shipping subscription payment card card refund cancel cancel delivery account return card return refund"}
+{"score": 0.7343, "tokens": 219, "channel": "web", "country": "SA", "prompt": "order subscription payment shipping delivery delivery invoice shipping invoice"}
+{"score": 0.5862, "tokens": 148, "channel": "web", "country": "ID", "prompt": "address invoice order payment cancel account refund return shipping status account delivery card"}
+{"score": 0.7932, "tokens": 110, "channel": "app", "country": "SA", "prompt": "subscription shipping order invoice return account address cancel"}
+{"score": 0.5626, "tokens": 121, "channel": "web", "country": "SA", "prompt": "account payment return address refund order refund address card subscription card payment"}
+{"score": 0.6683, "tokens": 256, "channel": "email", "country": "ID", "prompt": "status payment delivery card status address status shipping subscription refund address"}
+{"score": 0.8125, "tokens": 711, "channel": "email", "country": "AE", "prompt": "cancel order account shipping refund invoice order address account cancel subscription"}
+{"score": 0.7437, "tokens": 71, "channel": "web", "country": "ID", "prompt": "subscription cancel invoice subscription account order card payment subscription payment card delivery"}
+{"score": 0.7234, "tokens": 222, "channel": "web", "country": "GB", "prompt": "return payment refund subscription status status"}
+{"score": 0.5906, "tokens": 215, "channel": "email", "country": "ID", "prompt": "return invoice delivery shipping address refund status payment payment account invoice"}
+{"score": 0.5635, "tokens": 342, "channel": "web", "country": "AE", "prompt": "order subscription account refund invoice invoice account"}
+{"score": 0.3692, "tokens": 216, "channel": "web", "country": "AE", "prompt": "status address delivery order cancel delivery shipping account"}
+{"score": 0.5967, "tokens": 154, "channel": "web", "country": "SA", "prompt": "refund cancel status address subscription return cancel account invoice payment"}
+{"score": 0.5576, "tokens": 52, "channel": "web", "country": "ID", "prompt": "order status return refund account invoice subscription cancel"}
+{"score": 0.6203, "tokens": 121, "channel": "web", "country": "ID", "prompt": "address subscription delivery shipping account address delivery subscription card payment order address"}
+{"score": 0.7915, "tokens": 393, "channel": "app", "country": "ID", "prompt": "cancel order subscription refund account cancel"}
+{"score": 0.7713, "tokens": 186, "channel": "web", "country": "SA", "prompt": "subscription refund shipping address order card card refund subscription card"}
+{"score": 0.752, "tokens": 197, "channel": "web", "country": "AE", "prompt": "invoice subscription account cancel return refund"}
+{"score": 0.8542, "tokens": 52, "channel": "web", "country": "SA", "prompt": "delivery status payment order subscription delivery invoice status"}
+{"score": 0.6115, "tokens": 313, "channel": "web", "country": "GB", "prompt": "refund address subscription invoice return account"}
+{"score": 0.4658, "tokens": 63, "channel": "web", "country": "AE", "prompt": "delivery status account order order shipping address address card payment"}
+{"score": 0.6091, "tokens": 306, "channel": "email", "country": "SA", "prompt": "card order card subscription refund delivery order address order cancel card"}
+{"score": 0.7309, "tokens": 144, "channel": "app", "country": "SA", "prompt": "refund address invoice refund payment return status subscription invoice shipping status subscription"}
+{"score": 0.6194, "tokens": 65, "channel": "web", "country": "AE", "prompt": "cancel return invoice return refund payment account cancel account"}
+{"score": 0.5761, "tokens": 142, "channel": "web", "country": "AE", "prompt": "card invoice refund delivery refund card invoice account invoice"}
+{"score": 0.6546, "tokens": 354, "channel": "app", "country": "AE", "prompt": "subscription return refund order order status card"}
+{"score": 0.611, "tokens": 115, "channel": "web", "country": "AE", "prompt": "cancel cancel refund card cancel order payment order return address address invoice cancel refund"}
+{"score": 0.4587, "tokens": 179, "channel": "email", "country": "ID", "prompt": "status refund shipping return card return refund status"}
+{"score": 0.5971, "tokens": 198, "channel": "app", "country": "SA", "prompt": "delivery address status subscription account account"}
+{"score": 0.751, "tokens": 222, "channel": "web", "country": "SA", "prompt": "card invoice invoice cancel order refund"}
+{"score": 0.3327, "tokens": 163, "channel": "app", "country": "GB", "prompt": "address status refund delivery account"}
+{"score": 0.5556, "tokens": 113, "channel": "app", "country": "AE", "prompt": "payment card subscription invoice address"}
+{"score": 0.6977, "tokens": 308, "channel": "web", "country": "ID", "prompt": "refund return subscription refund account delivery"}
+{"score": 0.4587, "tokens": 183, "channel": "web", "country": "AE", "prompt": "shipping shipping refund cancel cancel invoice account card order card subscription"}
+{"score": 0.8855, "tokens": 79, "channel": "web", "country": "SA", "prompt": "card account account account order account"}
+{"score": 0.5971, "tokens": 299, "channel": "web", "country": "SA", "prompt": "shipping account payment account order payment card account status cancel invoice order payment address"}
+{"score": 0.6467, "tokens": 284, "channel": "web", "country": "AE", "prompt": "subscription delivery payment order subscription"}
+{"score": 0.6091, "tokens": 124, "channel": "web", "country": "GB", "prompt": "refund refund invoice invoice order payment payment account shipping address subscription return"}
+{"score": 0.414, "tokens": 145, "channel": "email", "country": "AE", "prompt": "subscription delivery cancel shipping delivery refund account shipping"}
+{"score": 0.5624, "tokens": 362, "channel": "app", "country": "ID", "prompt": "order cancel return order invoice cancel return"}
+{"score": 0.4472, "tokens": 206, "channel": "web", "country": "ID", "prompt": "account subscription address card subscription refund account invoice status cancel payment invoice order delivery"}
+{"score": 0.5361, "tokens": 218, "channel": "email", "country": "ID", "prompt": "account account invoice status account refund card subscription refund account return account address card"}
+{"score": 0.5946, "tokens": 152, "channel": "web", "country": "GB", "prompt": "order invoice subscription status account account card return order"}
+{"score": 0.6808, "tokens": 82, "channel": "web", "country": "ID", "prompt": "shipping order subscription refund account order"}
+{"score": 0.4766, "tokens": 289, "channel": "web", "country": "ID", "prompt": "refund status cancel order status account account return"}
+{"score": 0.6832, "tokens": 123, "channel": "web", "country": "ID", "prompt": "invoice card return address order cancel account return return order account"}
+{"score": 0.5922, "tokens": 89, "channel": "web", "country": "GB", "prompt": "refund account account status address invoice shipping invoice payment"}
+{"score": 0.7898, "tokens": 122, "channel": "app", "country": "AE", "prompt": "shipping cancel shipping payment return refund address payment status return card status"}
+{"score": 0.5962, "tokens": 269, "channel": "app", "country": "AE", "prompt": "invoice shipping order payment account refund return invoice account cancel address subscription"}
+{"score": 0.535, "tokens": 73, "channel": "email", "country": "AE", "prompt": "delivery invoice order order payment account status address status cancel invoice card"}
+{"score": 0.5376, "tokens": 142, "channel": "web", "country": "GB", "prompt": "cancel cancel card order shipping invoice address refund return"}
+{"score": 0.6142, "tokens": 266, "channel": "web", "country": "AE", "prompt": "delivery address payment card payment"}
+{"score": 0.6787, "tokens": 155, "channel": "web", "country": "ID", "prompt": "address cancel delivery subscription status payment shipping address shipping"}
+{"score": 0.6459, "tokens": 159, "channel": "email", "country": "SA", "prompt": "refund payment account invoice payment subscription status subscription subscription payment shipping delivery"}
+{"score": 0.5583, "tokens": 233, "channel": "app", "country": "ID", "prompt": "refund return payment subscription address payment order card card delivery invoice shipping status refund"}
+{"score": 0.5139, "tokens": 205, "channel": "web", "country": "AE", "prompt": "cancel invoice payment shipping delivery"}
+{"score": 0.515, "tokens": 172, "channel": "web", "country": "AE", "prompt": "status card payment order payment return address return invoice address order return"}
+{"score": 0.5564, "tokens": 161, "channel": "email", "country": "SA", "prompt": "address delivery payment address cancel subscription cancel address"}
+{"score": 0.7497, "tokens": 67, "channel": "web", "country": "AE", "prompt": "address return shipping delivery subscription invoice cancel"}
+{"score": 0.5423, "tokens": 61, "channel": "web", "country": "ID", "prompt": "refund subscription return shipping order status delivery"}
+{"score": 0.4302, "tokens": 98, "channel": "web", "country": "SA", "prompt": "subscription delivery return delivery subscription subscription payment invoice subscription account address delivery payment"}
+{"score": 0.5119, "tokens": 92, "channel": "web", "country": "SA", "prompt": "return account delivery refund delivery status return account shipping card refund"}
+{"score": 0.588, "tokens": 180, "channel": "web", "country": "AE", "prompt": "order card cancel subscription account return subscription refund card"}
+{"score": 0.7107, "tokens": 184, "channel": "web", "country": "ID", "prompt": "cancel order address invoice address invoice order subscription account cancel account"}
+{"score": 0.7288, "tokens": 106, "channel": "web", "country": "AE", "prompt": "cancel status order return account shipping card delivery cancel delivery refund subscription"}
+{"score": 0.56, "tokens": 232, "channel": "app", "country": "AE", "prompt": "shipping order refund invoice subscription delivery address card cancel delivery status payment invoice account"}
+{"score": 0.5554, "tokens": 228, "channel": "web", "country": "SA", "prompt": "return order order address delivery account refund return cancel payment payment shipping cancel account"}
+{"score": 0.7032, "tokens": 124, "channel": "web", "country": "AE", "prompt": "address address payment card cancel refund cancel delivery payment card shipping address status"}
+{"score": 0.7018, "tokens": 174, "channel": "web", "country": "GB", "prompt": "shipping card return invoice cancel payment order delivery delivery address account"}
+{"score": 0.6006, "tokens": 122, "channel": "app", "country": "AE", "prompt": "cancel invoice invoice cancel delivery subscription status return return invoice"}
+{"score": 0.8839, "tokens": 265, "channel": "email", "country": "AE", "prompt": "address shipping refund payment refund shipping delivery subscription delivery refund delivery refund"}
+{"score": 0.59, "tokens": 155, "channel": "email", "country": "SA", "prompt": "card status order account address cancel delivery shipping card cancel return account status"}
+{"score": 0.6327, "tokens": 343, "channel": "email", "country": "AE", "prompt": "payment payment order return shipping shipping invoice subscription order"}
+{"score": 0.6383, "tokens": 221, "channel": "app", "country": "AE", "prompt": "status order account status invoice cancel status"}
+{"score": 0.9002, "tokens": 392, "channel": "web", "country": "AE", "prompt": "account payment delivery address address delivery status"}
+{"score": 0.7567, "tokens": 400, "channel": "web", "country": "AE", "prompt": "invoice invoice refund return address payment order status subscription subscription subscription card shipping"}
+{"score": 0.5909, "tokens": 168, "channel": "web", "country": "AE", "prompt": "delivery account invoice account cancel delivery return subscription subscription cancel subscription card account status"}
+{"score": 0.5976, "tokens": 100, "channel": "email", "country": "GB", "prompt": "order cancel delivery cancel shipping payment invoice account address delivery"}
+{"score": 0.4657, "tokens": 177, "channel": "email", "country": "AE", "prompt": "delivery invoice delivery card address subscription refund delivery status subscription refund shipping"}
+{"score": 0.7701, "tokens": 221, "channel": "web", "country": "AE", "prompt": "refund invoice order refund return payment payment status payment status"}
+{"score": 0.8094, "tokens": 127, "channel": "web", "country": "AE", "prompt": "payment delivery account cancel refund refund card subscription card account invoice"}
+{"score": 0.6692, "tokens": 145, "channel": "web", "country": "AE", "prompt": "invoice delivery order account payment order invoice payment invoice refund card return invoice"}
+{"score": 0.5494, "tokens": 95, "channel": "app", "country": "AE", "prompt": "card address address delivery cancel account account payment cancel payment"}
+{"score": 0.5431, "tokens": 89, "channel": "web", "country": "SA", "prompt": "return invoice delivery subscription address subscription shipping"}
+{"score": 0.6104, "tokens": 275, "channel": "email", "country": "ID", "prompt": "refund invoice delivery cancel subscription invoice shipping order refund"}
+{"score": 0.5469, "tokens": 205, "channel": "email", "country": "SA", "prompt": "order delivery payment invoice account refund shipping cancel order"}
+{"score": 0.5468, "tokens": 224, "channel": "web", "country": "ID", "prompt": "address invoice status delivery account"}
+{"score": 0.8208, "tokens": 192, "channel": "email", "country": "AE", "prompt": "subscription return refund return invoice return subscription invoice shipping return subscription cancel status"}
+{"score": 0.4319, "tokens": 204, "channel": "email", "country": "AE", "prompt": "shipping address subscription card invoice return invoice shipping account payment card invoice"}
+{"score": 0.7448, "tokens": 112, "channel": "app", "country": "SA", "prompt": "subscription cancel return order refund shipping payment invoice subscription payment payment shipping"}
+{"score": 0.3679, "tokens": 123, "channel": "app", "country": "AE", "prompt": "return account payment payment address cancel payment invoice return delivery return account cancel"}
+{"score": 0.5731, "tokens": 183, "channel": "web", "country": "SA", "prompt": "cancel delivery order status payment shipping card card account cancel account account card delivery"}
+{"score": 0.5181, "tokens": 162, "channel": "app", "country": "AE", "prompt": "refund order account refund delivery"}
+{"score": 0.6017, "tokens": 85, "channel": "app", "country": "AE", "prompt": "card account card account address account"}
+{"score": 0.5993, "tokens": 140, "channel": "web", "country": "SA", "prompt": "order return status shipping refund delivery status delivery shipping invoice address delivery account"}
+{"score": 0.6009, "tokens": 90, "channel": "web", "country": "AE", "prompt": "refund subscription card cancel delivery address"}
+{"score": 0.6648, "tokens": 125, "channel": "web", "country": "SA", "prompt": "order address refund cancel cancel address refund invoice"}
+{"score": 0.7098, "tokens": 128, "channel": "web", "country": "AE", "prompt": "address order status delivery order refund card refund delivery refund"}
+{"score": 0.5523, "tokens": 198, "channel": "web", "country": "AE", "prompt": "shipping payment payment account card"}
+{"score": 0.7173, "tokens": 96, "channel": "app", "country": "SA", "prompt": "card card shipping return card status order account payment account return subscription card order"}
+{"score": 0.3842, "tokens": 194, "channel": "web", "country": "GB", "prompt": "refund status payment status refund payment payment card card refund status return"}
+{"score": 0.6961, "tokens": 398, "channel": "web", "country": "AE", "prompt": "subscription invoice return payment return account refund subscription payment order status"}
+{"score": 0.6194, "tokens": 196, "channel": "web", "country": "SA", "prompt": "payment refund delivery account payment payment"}
+{"score": 0.7679, "tokens": 280, "channel": "web", "country": "SA", "prompt": "payment invoice order subscription order card invoice return subscription address return invoice return"}
+{"score": 0.6789, "tokens": 87, "channel": "web", "country": "AE", "prompt": "order card payment account address return status card payment card return"}
+{"score": 0.7597, "tokens": 106, "channel": "web", "country": "SA", "prompt": "subscription address account order cancel account"}
+{"score": 0.5338, "tokens": 259, "channel": "app", "country": "AE", "prompt": "cancel order status refund subscription card return cancel status invoice refund delivery account invoice"}
+{"score": 0.8435, "tokens": 53, "channel": "email", "country": "AE", "prompt": "return invoice account card delivery address subscription address order refund"}
+{"score": 0.6859, "tokens": 57, "channel": "app", "country": "AE", "prompt": "return refund shipping subscription invoice refund order payment subscription status refund"}
+{"score": 0.6647, "tokens": 234, "channel": "web", "country": "SA", "prompt": "invoice cancel status return delivery status subscription status return subscription card card invoice card"}
+{"score": 0.6127, "tokens": 73, "channel": "web", "country": "ID", "prompt": "status subscription card card payment delivery account return address order"}
+{"score": 0.7789, "tokens": 137, "channel": "web", "country": "AE", "prompt": "payment subscription subscription delivery return invoice refund payment"}
+{"score": 0.284, "tokens": 229, "channel": "web", "country": "AE", "prompt": "status return account payment refund shipping refund shipping"}
+{"score": 0.6962, "tokens": 128, "channel": "app", "country": "GB", "prompt": "payment cancel invoice cancel cancel invoice address cancel account"}
+{"score": 0.5302, "tokens": 185, "channel": "web", "country": "ID", "prompt": "account refund card subscription subscription order refund subscription"}
+{"score": 0.7108, "tokens": 254, "channel": "app", "country": "AE", "prompt": "account card account cancel account payment refund cancel subscription order shipping subscription return"}
+{"score": 0.6014, "tokens": 203, "channel": "app", "country": "GB", "prompt": "subscription invoice status delivery invoice"}
+{"score": 0.612, "tokens": 116, "channel": "web", "country": "SA", "prompt": "shipping card return order delivery account order refund cancel address account account"}
+{"score": 0.7906, "tokens": 96, "channel": "web", "country": "ID", "prompt": "refund subscription shipping delivery address card status return order invoice payment refund order refund"}
+{"score": 0.466, "tokens": 64, "channel": "email", "country": "SA", "prompt": "invoice shipping invoice address invoice return"}
+{"score": 0.6996, "tokens": 59, "channel": "web", "country": "ID", "prompt": "delivery shipping payment invoice invoice account payment card"}
+{"score": 0.546, "tokens": 198, "channel": "app", "country": "SA", "prompt": "delivery payment shipping delivery shipping payment card account address card card order"}
+{"score": 0.5184, "tokens": 410, "channel": "web", "country": "AE", "prompt": "order address order delivery account refund invoice"}
+{"score": 0.5354, "tokens": 273, "channel": "web", "country": "ID", "prompt": "status subscription invoice payment refund shipping payment account card status"}
+{"score": 0.7318, "tokens": 121, "channel": "app", "country": "ID", "prompt": "status shipping return shipping card cancel"}
+{"score": 0.5651, "tokens": 126, "channel": "web", "country": "AE", "prompt": "subscription address account invoice cancel"}
+{"score": 0.6524, "tokens": 168, "channel": "email", "country": "AE", "prompt": "cancel return account order refund cancel address status payment order order cancel"}
+{"score": 0.5908, "tokens": 133, "channel": "app", "country": "AE", "prompt": "status subscription shipping return return delivery card shipping invoice order cancel refund order shipping"}
+{"score": 0.7307, "tokens": 101, "channel": "web", "country": "ID", "prompt": "return refund account return account address shipping account subscription shipping account payment card return"}
+{"score": 0.6005, "tokens": 133, "channel": "web", "country": "SA", "prompt": "account order address account account payment delivery return"}
+{"score": 0.5597, "tokens": 105, "channel": "web", "country": "ID", "prompt": "account delivery order shipping invoice"}
+{"score": 0.5466, "tokens": 128, "channel": "app", "country": "AE", "prompt": "payment subscription cancel refund payment shipping address return return order"}
+{"score": 0.721, "tokens": 192, "channel": "app", "country": "ID", "prompt": "payment subscription cancel invoice shipping invoice account refund"}
+{"score": 0.7412, "tokens": 207, "channel": "app", "country": "ID", "prompt": "payment shipping subscription order subscription shipping account address delivery"}
+{"score": 0.7535, "tokens": 143, "channel": "web", "country": "GB", "prompt": "status payment account invoice cancel account refund refund address return return subscription order shipping"}
+{"score": 0.778, "tokens": 102, "channel": "email", "country": "AE", "prompt": "address shipping return invoice shipping delivery"}
+{"score": 0.7429, "tokens": 228, "channel": "web", "country": "GB", "prompt": "payment status shipping order cancel card"}
+{"score": 0.5717, "tokens": 61, "channel": "app", "country": "SA", "prompt": "refund cancel refund order address cancel payment payment address order"}
+{"score": 0.683, "tokens": 98, "channel": "web", "country": "AE", "prompt": "cancel account card return cancel account payment status"}
+{"score": 0.6405, "tokens": 182, "channel": "web", "country": "AE", "prompt": "status cancel subscription card payment"}
+{"score": 0.6149, "tokens": 819, "channel": "email", "country": "AE", "prompt": "order account status shipping return payment card subscription refund invoice order return status"}
+{"score": 0.8005, "tokens": 222, "channel": "app", "country": "AE", "prompt": "delivery shipping subscription cancel delivery shipping return refund address card"}
+{"score": 0.6276, "tokens": 214, "channel": "web", "country": "SA", "prompt": "shipping return address address refund subscription subscription status status"}
+{"score": 0.6421, "tokens": 148, "channel": "app", "country": "ID", "prompt": "delivery payment return invoice payment delivery delivery refund"}
+{"score": 0.6839, "tokens": 63, "channel": "email", "country": "SA", "prompt": "address return cancel return cancel address return delivery"}
+{"score": 0.6669, "tokens": 93, "channel": "email", "country": "AE", "prompt": "refund order card shipping address"}
+{"score": 0.5992, "tokens": 89, "channel": "app", "country": "SA", "prompt": "subscription refund address status address invoice refund status subscription refund"}
+{"score": 0.6063, "tokens": 159, "channel": "email", "country": "AE", "prompt": "refund refund payment order address order subscription"}
+{"score": 0.6883, "tokens": 81, "channel": "app", "country": "ID", "prompt": "card status shipping shipping address account address payment payment subscription"}
+{"score": 0.6664, "tokens": 266, "channel": "app", "country": "GB", "prompt": "status cancel address refund refund shipping"}
+{"score": 0.8415, "tokens": 133, "channel": "web", "country": "SA", "prompt": "return subscription account subscription address card invoice cancel"}
+{"score": 0.7207, "tokens": 237, "channel": "web", "country": "AE", "prompt": "cancel shipping invoice card order order account refund cancel refund"}
+{"score": 0.725, "tokens": 195, "channel": "web", "country": "SA", "prompt": "status cancel return order delivery shipping shipping payment card"}
+{"score": 0.6204, "tokens": 127, "channel": "web", "country": "AE", "prompt": "invoice shipping delivery address cancel order account"}
+{"score": 0.685, "tokens": 220, "channel": "app", "country": "SA", "prompt": "return payment status order delivery subscription delivery"}
+{"score": 0.7159, "tokens": 143, "channel": "web", "country": "SA", "prompt": "refund invoice order refund delivery invoice account account account account address card invoice payment"}
+{"score": 0.6585, "tokens": 332, "channel": "email", "country": "ID", "prompt": "invoice status invoice subscription return delivery refund cancel cancel payment order"}
+{"score": 0.7134, "tokens": 180, "channel": "app", "country": "ID", "prompt": "refund invoice refund order cancel payment"}
+{"score": 0.636, "tokens": 210, "channel": "web", "country": "SA", "prompt": "card invoice refund card return address account subscription card address shipping address order"}
+{"score": 0.7206, "tokens": 171, "channel": "web", "country": "AE", "prompt": "account account invoice subscription subscription address address cancel status return account invoice refund"}
+{"score": 0.5004, "tokens": 131, "channel": "web", "country": "AE", "prompt": "status account order delivery subscription order subscription invoice address address subscription invoice"}
+{"score": 0.5473, "tokens": 129, "channel": "email", "country": "SA", "prompt": "address shipping delivery account refund subscription delivery cancel account account subscription address status card"}
+{"score": 0.589, "tokens": 105, "channel": "web", "country": "AE", "prompt": "delivery card invoice card delivery payment return refund"}
+{"score": 0.3091, "tokens": 226, "channel": "web", "country": "ID", "prompt": "card subscription account shipping invoice shipping delivery delivery return shipping account"}
+{"score": 0.5371, "tokens": 214, "channel": "web", "country": "AE", "prompt": "address address status subscription address shipping payment invoice payment"}
+{"score": 0.7189, "tokens": 176, "channel": "email", "country": "AE", "prompt": "shipping shipping address card shipping payment return delivery subscription cancel return address"}
+{"score": 0.6412, "tokens": 121, "channel": "web", "country": "AE", "prompt": "account shipping refund return subscription order account invoice status"}
+{"score": 0.6837, "tokens": 74, "channel": "web", "country": "AE", "prompt": "subscription shipping address account order card account return subscription address refund invoice return"}
+{"score": 0.881, "tokens": 148, "channel": "web", "country": "AE", "prompt": "card refund card address card address cancel return account address delivery shipping"}
+{"score": 0.6023, "tokens": 272, "channel": "web", "country": "ID", "prompt": "status order status account payment invoice card account order account card cancel"}
+{"score": 0.5109, "tokens": 210, "channel": "email", "country": "ID", "prompt": "delivery address subscription return status shipping invoice return delivery subscription subscription subscription order"}
+{"score": 0.6979, "tokens": 128, "channel": "web", "country": "AE", "prompt": "order payment return payment cancel"}
+{"score": 0.5864, "tokens": 113, "channel": "web", "country": "GB", "prompt": "cancel account status account card status delivery return subscription refund cancel shipping address"}
+{"score": 0.7231, "tokens": 94, "channel": "web", "country": "ID", "prompt": "delivery card cancel address subscription refund order return shipping card"}
+{"score": 0.6438, "tokens": 204, "channel": "web", "country": "SA", "prompt": "shipping card cancel delivery invoice invoice status card account"}
+{"score": 0.6518, "tokens": 205, "channel": "email", "country": "AE", "prompt": "shipping account card address subscription delivery card address refund"}
+{"score": 0.5989, "tokens": 278, "channel": "app", "country": "AE", "prompt": "return card return order card refund account shipping return"}
+{"score": 0.7059, "tokens": 170, "channel": "web", "country": "ID", "prompt": "delivery subscription refund card invoice refund status order refund order"}
+{"score": 0.7342, "tokens": 81, "channel": "web", "country": "AE", "prompt": "subscription shipping card subscription invoice address"}
+{"score": 0.7228, "tokens": 49, "channel": "app", "country": "AE", "prompt": "cancel account cancel delivery card cancel invoice payment"}
+{"score": 0.8533, "tokens": 173, "channel": "web", "country": "SA", "prompt": "invoice status delivery shipping address refund status address"}
+{"score": 0.7629, "tokens": 103, "channel": "web", "country": "ID", "prompt": "order account order address cancel order cancel"}
+{"score": 0.5948, "tokens": 268, "channel": "email", "country": "AE", "prompt": "return status subscription delivery subscription"}
+{"score": 0.6518, "tokens": 170, "channel": "web", "country": "SA", "prompt": "card payment cancel return shipping address subscription order status subscription shipping status status payment"}
+{"score": 0.4577, "tokens": 142, "channel": "app", "country": "ID", "prompt": "address status invoice cancel shipping"}
+{"score": 0.6371, "tokens": 176, "channel": "web", "country": "AE", "prompt": "card order cancel status return"}
+{"score": 0.361, "tokens": 206, "channel": "app", "country": "ID", "prompt": "account payment shipping return account invoice payment order payment invoice"}
+{"score": 0.6176, "tokens": 210, "channel": "app", "country": "GB", "prompt": "address invoice payment return shipping cancel order order address payment subscription order delivery refund"}
+{"score": 0.6843, "tokens": 108, "channel": "app", "country": "AE", "prompt": "payment account delivery card return account cancel"}
+{"score": 0.5327, "tokens": 103, "channel": "web", "country": "GB", "prompt": "card payment card address return delivery subscription status subscription"}
+{"score": 0.7424, "tokens": 260, "channel": "web", "country": "SA", "prompt": "payment invoice address order address return refund order status status status card"}
+{"score": 0.7397, "tokens": 346, "channel": "email", "country": "SA", "prompt": "status subscription refund invoice address card payment address payment invoice cancel"}
+{"score": 0.4479, "tokens": 183, "channel": "web", "country": "AE", "prompt": "status card subscription order payment delivery delivery order delivery"}
+{"score": 0.4658, "tokens": 77, "channel": "web", "country": "GB", "prompt": "payment delivery card card address return cancel"}
+{"score": 0.8085, "tokens": 211, "channel": "web", "country": "SA", "prompt": "subscription return return return order order subscription cancel return return order return"}
+{"score": 0.5694, "tokens": 189, "channel": "app", "country": "AE", "prompt": "account order shipping status delivery account"}
+{"score": 0.469, "tokens": 441, "channel": "web", "country": "SA", "prompt": "return subscription card status card shipping"}
+{"score": 0.5521, "tokens": 131, "channel": "web", "country": "GB", "prompt": "cancel address subscription return invoice shipping invoice cancel shipping invoice card shipping shipping"}
+{"score": 0.679, "tokens": 53, "channel": "email", "country": "AE", "prompt": "order account card cancel status cancel"}
+{"score": 0.4942, "tokens": 65, "channel": "web", "country": "AE", "prompt": "account refund shipping refund card shipping invoice cancel status address cancel"}
+{"score": 0.6165, "tokens": 327, "channel": "app", "country": "SA", "prompt": "status delivery return card invoice payment return order order"}
+{"score": 0.5579, "tokens": 180, "channel": "web", "country": "SA", "prompt": "delivery shipping address shipping return subscription shipping refund"}
+{"score": 0.681, "tokens": 84, "channel": "app", "country": "AE", "prompt": "cancel shipping card order delivery"}
+{"score": 0.6406, "tokens": 179, "channel": "app", "country": "SA", "prompt": "cancel shipping delivery refund account status card order refund"}
+{"score": 0.6089, "tokens": 144, "channel": "app", "country": "GB", "prompt": "account refund refund delivery account account"}
+{"score": 0.7332, "tokens": 67, "channel": "web", "country": "AE", "prompt": "address payment return card invoice refund address refund"}
+{"score": 0.7367, "tokens": 184, "channel": "email", "country": "SA", "prompt": "invoice refund refund address subscription return card delivery refund invoice shipping address shipping card"}
+{"score": 0.5908, "tokens": 72, "channel": "web", "country": "SA", "prompt": "shipping status account invoice account return account status delivery card invoice payment"}
+{"score": 0.5499, "tokens": 125, "channel": "web", "country": "SA", "prompt": "address cancel cancel shipping shipping invoice refund order"}
+{"score": 0.2931, "tokens": 87, "channel": "web", "country": "ID", "prompt": "delivery order shipping account return order refund cancel cancel"}
+{"score": 0.638, "tokens": 99, "channel": "web", "country": "ID", "prompt": "subscription account account order refund address subscription"}
+{"score": 0.427, "tokens": 186, "channel": "web", "country": "AE", "prompt": "order subscription account address delivery cancel"}
+{"score": 0.6794, "tokens": 125, "channel": "web", "country": "AE", "prompt": "card account cancel delivery subscription refund"}
+{"score": 0.5489, "tokens": 323, "channel": "web", "country": "SA", "prompt": "delivery shipping cancel card delivery"}
+{"score": 0.4422, "tokens": 189, "channel": "app", "country": "ID", "prompt": "order shipping invoice cancel shipping refund order delivery status card"}
+{"score": 0.7376, "tokens": 170, "channel": "email", "country": "AE", "prompt": "card card order delivery subscription payment"}
+{"score": 0.4607, "tokens": 325, "channel": "app", "country": "SA", "prompt": "delivery payment refund order address"}
+{"score": 0.4414, "tokens": 83, "channel": "web", "country": "SA", "prompt": "delivery card subscription cancel return"}
+{"score": 0.5402, "tokens": 104, "channel": "web", "country": "ID", "prompt": "return address subscription delivery return address subscription cancel"}
+{"score": 0.7588, "tokens": 312, "channel": "web", "country": "GB", "prompt": "address order account payment order card refund invoice account subscription account subscription invoice shipping"}
+{"score": 0.682, "tokens": 164, "channel": "app", "country": "SA", "prompt": "shipping account card subscription address card"}
+{"score": 0.4675, "tokens": 137, "channel": "web", "country": "SA", "prompt": "invoice status account card account invoice return"}
+{"score": 0.5323, "tokens": 144, "channel": "app", "country": "AE", "prompt": "address return address return status"}
+{"score": 0.606, "tokens": 306, "channel": "web", "country": "SA", "prompt": "cancel order order payment address shipping invoice subscription"}
+{"score": 0.7485, "tokens": 188, "channel": "email", "country": "AE", "prompt": "cancel invoice refund address payment shipping account refund status account account"}
+{"score": 0.6526, "tokens": 222, "channel": "app", "country": "AE", "prompt": "card return delivery refund shipping return payment address payment account refund invoice"}
+{"score": 0.7059, "tokens": 113, "channel": "email", "country": "AE", "prompt": "cancel return delivery return card address cancel address refund delivery order order card card"}
+{"score": 0.7938, "tokens": 109, "channel": "web", "country": "AE", "prompt": "delivery shipping account cancel status address order subscription delivery status cancel cancel delivery refund"}
+{"score": 0.6111, "tokens": 98, "channel": "app", "country": "SA", "prompt": "return order invoice shipping refund subscription account refund"}
+{"score": 0.7604, "tokens": 317, "channel": "web", "country": "AE", "prompt": "return shipping card delivery account shipping cancel"}
+{"score": 0.8149, "tokens": 219, "channel": "web", "country": "GB", "prompt": "refund invoice account shipping invoice"}
+{"score": 0.6441, "tokens": 128, "channel": "app", "country": "SA", "prompt": "return cancel return invoice return refund cancel status"}
+{"score": 0.5318, "tokens": 70, "channel": "web", "country": "ID", "prompt": "delivery refund account payment order order delivery return order return"}
+{"score": 0.6386, "tokens": 211, "channel": "email", "country": "AE", "prompt": "card refund shipping card account invoice card refund refund order"}
+{"score": 0.7058, "tokens": 138, "channel": "web", "country": "AE", "prompt": "address refund subscription shipping order card invoice"}
+{"score": 0.6792, "tokens": 145, "channel": "app", "country": "AE", "prompt": "account address refund card shipping"}
+{"score": 0.7959, "tokens": 195, "channel": "web", "country": "SA", "prompt": "card subscription cancel account return address status invoice delivery delivery subscription refund shipping"}
+{"score": 0.4531, "tokens": 183, "channel": "web", "country": "AE", "prompt": "payment order invoice shipping shipping shipping shipping card return"}
+{"score": 0.8491, "tokens": 185, "channel": "app", "country": "ID", "prompt": "invoice address card address refund shipping refund account return cancel account status subscription subscription"}
+{"score": 0.5539, "tokens": 188, "channel": "web", "country": "SA", "prompt": "subscription refund order refund shipping subscription invoice card order"}
+{"score": 0.5871, "tokens": 194, "channel": "web", "country": "AE", "prompt": "account cancel payment card order status cancel cancel status invoice shipping invoice card"}
+{"score": 0.5862, "tokens": 140, "channel": "email", "country": "AE", "prompt": "cancel delivery card shipping payment invoice subscription address status"}
+{"score": 0.5475, "tokens": 163, "channel": "web", "country": "GB", "prompt": "order status invoice return refund account status payment account refund status shipping"}
+{"score": 0.5912, "tokens": 274, "channel": "app", "country": "ID", "prompt": "payment payment delivery subscription subscription status refund cancel return subscription refund"}
+{"score": 0.7878, "tokens": 76, "channel": "email", "country": "ID", "prompt": "refund address status order refund order delivery delivery delivery refund payment"}
+{"score": 0.7251, "tokens": 147, "channel": "web", "country": "AE", "prompt": "invoice account shipping return payment subscription account"}
+{"score": 0.4499, "tokens": 202, "channel": "email", "country": "SA", "prompt": "return shipping shipping account invoice account address shipping delivery"}
+{"score": 0.7727, "tokens": 134, "channel": "email", "country": "AE", "prompt": "status address account return cancel"}
+{"score": 0.5793, "tokens": 158, "channel": "app", "country": "ID", "prompt": "cancel delivery card account return delivery"}
+{"score": 0.7041, "tokens": 148, "channel": "app", "country": "AE", "prompt": "return cancel order payment order return cancel refund address refund status subscription invoice"}
+{"score": 0.5363, "tokens": 97, "channel": "web", "country": "AE", "prompt": "address account order card status address"}
+{"score": 0.6286, "tokens": 414, "channel": "web", "country": "ID", "prompt": "refund status invoice subscription subscription"}
+{"score": 0.6362, "tokens": 57, "channel": "web", "country": "ID", "prompt": "account refund address delivery status card"}
+{"score": 0.5346, "tokens": 136, "channel": "web", "country": "AE", "prompt": "status subscription cancel account shipping status payment card address account account refund address"}
+{"score": 0.5654, "tokens": 117, "channel": "web", "country": "SA", "prompt": "payment delivery card delivery address invoice subscription return payment return"}
+{"score": 0.3879, "tokens": 181, "channel": "app", "country": "AE", "prompt": "subscription account account refund order delivery address shipping address account payment card account"}
+{"score": 0.5781, "tokens": 450, "channel": "web", "country": "SA", "prompt": "cancel address cancel delivery return order status subscription"}
+{"score": 0.5971, "tokens": 108, "channel": "app", "country": "SA", "prompt": "cancel invoice shipping subscription address refund payment order return account return address"}
+{"score": 0.599, "tokens": 77, "channel": "app", "country": "SA", "prompt": "delivery return refund order cancel cancel delivery shipping"}
+{"score": 0.6162, "tokens": 188, "channel": "app", "country": "ID", "prompt": "address card shipping invoice card"}
+{"score": 0.7325, "tokens": 191, "channel": "email", "country": "AE", "prompt": "return status order card order subscription card subscription shipping card subscription account card"}
+{"score": 0.9003, "tokens": 186, "channel": "app", "country": "ID", "prompt": "subscription order invoice invoice order card invoice account card status order refund payment account"}
+{"score": 0.564, "tokens": 124, "channel": "app", "country": "AE", "prompt": "card order payment address shipping order order card account cancel order subscription address"}
+{"score": 0.4094, "tokens": 257, "channel": "web", "country": "ID", "prompt": "return card shipping order account status status invoice invoice refund"}
+{"score": 0.719, "tokens": 205, "channel": "app", "country": "SA", "prompt": "payment status payment cancel payment card order return address card order status card"}
+{"score": 0.666, "tokens": 132, "channel": "email", "country": "ID", "prompt": "shipping invoice card invoice payment card"}
+{"score": 0.7434, "tokens": 160, "channel": "web", "country": "SA", "prompt": "order card card invoice invoice return subscription subscription order return subscription cancel status shipping"}
+{"score": 0.4948, "tokens": 72, "channel": "app", "country": "AE", "prompt": "subscription address cancel shipping subscription card order address card status return invoice"}
+{"score": 0.7116, "tokens": 67, "channel": "app", "country": "ID", "prompt": "delivery payment delivery shipping shipping return refund payment delivery status refund account invoice"}
+{"score": 0.4933, "tokens": 143, "channel": "web", "country": "SA", "prompt": "cancel card payment status order cancel refund payment refund status card"}
+{"score": 0.6655, "tokens": 115, "channel": "web", "country": "SA", "prompt": "return card status card refund invoice payment card payment"}
+{"score": 0.7206, "tokens": 104, "channel": "web", "country": "SA", "prompt": "status order status cancel card card status cancel invoice payment"}
+{"score": 0.9656, "tokens": 177, "channel": "web", "country": "GB", "prompt": "invoice cancel refund address address"}
+{"score": 0.6429, "tokens": 234, "channel": "web", "country": "SA", "prompt": "order refund status card return card cancel address delivery account order shipping cancel order"}
+{"score": 0.5923, "tokens": 91, "channel": "email", "country": "ID", "prompt": "return address subscription invoice return refund invoice shipping return card"}
+{"score": 0.5014, "tokens": 67, "channel": "app", "country": "AE", "prompt": "delivery order return refund card address shipping cancel subscription delivery shipping status payment shipping"}
+{"score": 0.5707, "tokens": 95, "channel": "app", "country": "AE", "prompt": "invoice return shipping subscription invoice status order payment"}
+{"score": 0.5594, "tokens": 161, "channel": "email", "country": "SA", "prompt": "cancel invoice delivery cancel refund address address account"}
+{"score": 0.6148, "tokens": 57, "channel": "app", "country": "ID", "prompt": "card invoice invoice shipping invoice cancel invoice address shipping"}
+{"score": 0.6797, "tokens": 69, "channel": "email", "country": "AE", "prompt": "status refund address status invoice invoice subscription status shipping address invoice"}
+{"score": 0.529, "tokens": 104, "channel": "web", "country": "SA", "prompt": "refund invoice card return payment invoice shipping return"}
+{"score": 0.5418, "tokens": 106, "channel": "web", "country": "SA", "prompt": "status shipping shipping cancel subscription return subscription delivery"}
+{"score": 0.6832, "tokens": 110, "channel": "web", "country": "ID", "prompt": "invoice order shipping card cancel order shipping return payment status shipping shipping"}
+{"score": 0.6671, "tokens": 325, "channel": "web", "country": "AE", "prompt": "account subscription shipping account subscription address order account"}
+{"score": 0.6632, "tokens": 185, "channel": "app", "country": "ID", "prompt": "subscription return cancel account refund address order payment return delivery cancel refund invoice invoice"}
+{"score": 0.6536, "tokens": 159, "channel": "app", "country": "AE", "prompt": "refund payment return account return account invoice card"}
+{"score": 0.553, "tokens": 71, "channel": "web", "country": "SA", "prompt": "account invoice payment order shipping refund refund refund subscription subscription cancel"}
+{"score": 0.6336, "tokens": 173, "channel": "web", "country": "SA", "prompt": "refund shipping card order shipping shipping order refund address status invoice order"}
+{"score": 0.7182, "tokens": 89, "channel": "web", "country": "GB", "prompt": "subscription status cancel invoice subscription payment shipping address order return delivery delivery"}
+{"score": 0.6771, "tokens": 334, "channel": "web", "country": "AE", "prompt": "subscription subscription card invoice payment cancel account shipping invoice card"}
+{"score": 0.6618, "tokens": 148, "channel": "web", "country": "ID", "prompt": "return subscription shipping delivery subscription payment cancel account invoice shipping shipping"}
+{"score": 0.4267, "tokens": 216, "channel": "web", "country": "ID", "prompt": "refund subscription subscription status delivery invoice order return payment address shipping card"}
+{"score": 0.5981, "tokens": 136, "channel": "app", "country": "AE", "prompt": "delivery delivery invoice refund status card shipping status delivery order delivery order"}
+{"score": 0.6062, "tokens": 121, "channel": "web", "country": "AE", "prompt": "subscription shipping invoice cancel refund subscription return address payment status invoice payment"}
+{"score": 0.5505, "tokens": 87, "channel": "app", "country": "GB", "prompt": "address address subscription shipping order return status subscription subscription status delivery delivery refund"}
+{"score": 0.5829, "tokens": 83, "channel": "email", "country": "AE", "prompt": "invoice card status delivery shipping subscription address address address invoice invoice"}
+{"score": 0.5366, "tokens": 274, "channel": "web", "country": "AE", "prompt": "payment invoice account cancel delivery cancel return"}
+{"score": 0.567, "tokens": 158, "channel": "web", "country": "AE", "prompt": "payment cancel invoice order refund status card return delivery shipping status order shipping"}
+{"score": 0.5879, "tokens": 174, "channel": "web", "country": "AE", "prompt": "shipping account refund invoice invoice shipping payment"}
+{"score": 0.483, "tokens": 230, "channel": "web", "country": "SA", "prompt": "payment order card card address cancel address status"}
+{"score": 0.5099, "tokens": 226, "channel": "email", "country": "ID", "prompt": "refund payment order shipping invoice card invoice"}
+{"score": 0.8669, "tokens": 195, "channel": "web", "country": "AE", "prompt": "return payment account address delivery order account shipping delivery"}
+{"score": 0.5486, "tokens": 183, "channel": "web", "country": "AE", "prompt": "delivery refund order invoice payment shipping account refund return card"}
+{"score": 0.5737, "tokens": 255, "channel": "email", "country": "SA", "prompt": "payment card status shipping status account refund address"}
+{"score": 0.6317, "tokens": 236, "channel": "email", "country": "AE", "prompt": "account invoice shipping delivery order return return invoice"}
+{"score": 0.6748, "tokens": 169, "channel": "web", "country": "AE", "prompt": "subscription invoice address account card payment shipping payment status subscription refund shipping shipping status"}
+{"score": 0.6093, "tokens": 147, "channel": "web", "country": "SA", "prompt": "invoice account address address cancel delivery delivery invoice payment return status invoice return account"}
+{"score": 0.4989, "tokens": 229, "channel": "web", "country": "SA", "prompt": "cancel invoice return card account shipping cancel order status"}
+{"score": 0.6436, "tokens": 266, "channel": "web", "country": "SA", "prompt": "shipping refund card card subscription refund address address delivery delivery address"}
+{"score": 0.4986, "tokens": 161, "channel": "email", "country": "AE", "prompt": "return status status return cancel refund card return delivery delivery status"}
+{"score": 0.38, "tokens": 139, "channel": "web", "country": "AE", "prompt": "status status payment invoice shipping delivery status"}
+{"score": 0.7628, "tokens": 366, "channel": "web", "country": "GB", "prompt": "shipping order subscription card invoice subscription account address order subscription"}
+{"score": 0.5818, "tokens": 115, "channel": "web", "country": "AE", "prompt": "card address order status invoice card payment refund payment refund refund"}
+{"score": 0.6241, "tokens": 205, "channel": "web", "country": "SA", "prompt": "subscription refund refund cancel payment subscription order"}
+{"score": 0.7175, "tokens": 100, "channel": "web", "country": "AE", "prompt": "invoice refund refund card delivery status delivery address subscription cancel invoice invoice cancel"}
+{"score": 0.6495, "tokens": 364, "channel": "app", "country": "SA", "prompt": "return status subscription return refund subscription card order card order shipping invoice"}
+{"score": 0.7284, "tokens": 109, "channel": "web", "country": "GB", "prompt": "delivery order address refund account invoice order address return payment return"}
+{"score": 0.5974, "tokens": 146, "channel": "app", "country": "SA", "prompt": "address status subscription shipping return payment shipping card card return subscription shipping"}
+{"score": 0.5762, "tokens": 82, "channel": "email", "country": "AE", "prompt": "refund address status return cancel status account cancel return status card cancel delivery cancel"}
+{"score": 0.6137, "tokens": 102, "channel": "web", "country": "AE", "prompt": "order card refund status subscription card status order payment payment refund order"}
+{"score": 0.7187, "tokens": 166, "channel": "web", "country": "SA", "prompt": "return payment shipping invoice payment account order order payment shipping invoice"}
+{"score": 0.6312, "tokens": 119, "channel": "app", "country": "AE", "prompt": "subscription invoice order payment shipping account card payment address address status invoice subscription shipping"}
+{"score": 0.6642, "tokens": 351, "channel": "web", "country": "ID", "prompt": "account subscription card invoice status card shipping order payment return"}
+{"score": 0.6604, "tokens": 181, "channel": "email", "country": "SA", "prompt": "address account cancel order invoice payment account delivery"}
+{"score": 0.6996, "tokens": 97, "channel": "app", "country": "SA", "prompt": "account refund address address card card shipping status card"}
+{"score": 0.6664, "tokens": 269, "channel": "web", "country": "AE", "prompt": "invoice shipping delivery account refund shipping subscription account subscription return address return payment"}
+{"score": 0.7204, "tokens": 118, "channel": "app", "country": "ID", "prompt": "return account invoice status subscription delivery order card payment refund"}
+{"score": 0.6939, "tokens": 105, "channel": "app", "country": "AE", "prompt": "account return order status account refund return"}
+{"score": 0.6368, "tokens": 194, "channel": "web", "country": "AE", "prompt": "cancel subscription return card subscription delivery shipping return invoice account subscription address"}
+{"score": 0.5886, "tokens": 95, "channel": "web", "country": "SA", "prompt": "subscription invoice delivery invoice address invoice refund card payment card address return"}
+{"score": 0.6782, "tokens": 118, "channel": "app", "country": "ID", "prompt": "delivery shipping invoice delivery address return payment status invoice card order refund cancel"}
+{"score": 0.6245, "tokens": 60, "channel": "app", "country": "SA", "prompt": "status subscription cancel return address address status invoice invoice address payment"}
+{"score": 0.6336, "tokens": 212, "channel": "email", "country": "AE", "prompt": "invoice refund return cancel subscription subscription"}
+{"score": 0.5972, "tokens": 84, "channel": "web", "country": "ID", "prompt": "order refund card status delivery card account shipping return return refund"}
+{"score": 0.6526, "tokens": 123, "channel": "email", "country": "AE", "prompt": "cancel account refund account return shipping shipping cancel cancel order invoice payment status card"}
+{"score": 0.5674, "tokens": 301, "channel": "app", "country": "AE", "prompt": "address account address status subscription payment"}
+{"score": 0.5509, "tokens": 239, "channel": "web", "country": "SA", "prompt": "card delivery order cancel payment"}
+{"score": 0.476, "tokens": 95, "channel": "web", "country": "SA", "prompt": "account order return delivery delivery address"}
+{"score": 0.8234, "tokens": 309, "channel": "email", "country": "AE", "prompt": "delivery return card shipping status invoice invoice return refund"}
+{"score": 0.7872, "tokens": 277, "channel": "web", "country": "AE", "prompt": "invoice subscription delivery card refund delivery"}
+{"score": 0.7475, "tokens": 327, "channel": "email", "country": "GB", "prompt": "status shipping delivery subscription invoice cancel cancel"}
+{"score": 0.6279, "tokens": 133, "channel": "app", "country": "ID", "prompt": "subscription account subscription card return invoice return order account subscription payment status"}
+{"score": 0.8763, "tokens": 165, "channel": "web", "country": "SA", "prompt": "order refund shipping refund address card shipping delivery subscription account subscription"}
+{"score": 0.6525, "tokens": 205, "channel": "email", "country": "AE", "prompt": "order invoice card account subscription delivery"}
+{"score": 0.5311, "tokens": 91, "channel": "web", "country": "SA", "prompt": "invoice cancel card cancel payment card status order shipping status"}
+{"score": 0.4226, "tokens": 59, "channel": "app", "country": "SA", "prompt": "shipping delivery account order status order refund subscription"}
+{"score": 0.3709, "tokens": 242, "channel": "web", "country": "SA", "prompt": "address order shipping shipping card order order account"}
+{"score": 0.6199, "tokens": 123, "channel": "web", "country": "SA", "prompt": "card cancel refund return payment card invoice refund refund card return order subscription"}
+{"score": 0.5942, "tokens": 152, "channel": "web", "country": "ID", "prompt": "payment return shipping subscription payment shipping address delivery address account invoice payment cancel"}
+{"score": 0.7133, "tokens": 153, "channel": "app", "country": "AE", "prompt": "address delivery subscription shipping cancel invoice order order address delivery address"}
+{"score": 0.7306, "tokens": 150, "channel": "email", "country": "AE", "prompt": "shipping card order account subscription account card status shipping"}
+{"score": 0.6169, "tokens": 336, "channel": "web", "country": "AE", "prompt": "delivery delivery invoice account status"}
+{"score": 0.7667, "tokens": 106, "channel": "web", "country": "ID", "prompt": "return subscription payment account shipping account subscription"}
+{"score": 0.7155, "tokens": 130, "channel": "web", "country": "GB", "prompt": "account status delivery shipping address return address"}
+{"score": 0.5733, "tokens": 101, "channel": "email", "country": "SA", "prompt": "return invoice delivery delivery subscription cancel"}
+{"score": 0.4437, "tokens": 116, "channel": "app", "country": "SA", "prompt": "subscription address shipping address delivery card card status status"}
+{"score": 0.644, "tokens": 295, "channel": "app", "country": "AE", "prompt": "subscription payment address subscription delivery address status invoice"}
+{"score": 0.766, "tokens": 112, "channel": "web", "country": "AE", "prompt": "order refund card shipping account order cancel return status"}
+{"score": 0.6747, "tokens": 84, "channel": "web", "country": "ID", "prompt": "invoice shipping account invoice payment return delivery subscription address order card invoice cancel"}
+{"score": 0.4863, "tokens": 186, "channel": "email", "country": "SA", "prompt": "cancel order account card payment subscription invoice"}
+{"score": 0.7213, "tokens": 117, "channel": "email", "country": "ID", "prompt": "account delivery card invoice invoice address delivery subscription delivery"}
+{"score": 0.4969, "tokens": 121, "channel": "app", "country": "ID", "prompt": "payment payment order invoice order cancel payment subscription"}
+{"score": 0.5928, "tokens": 283, "channel": "app", "country": "ID", "prompt": "shipping status order shipping address"}
+{"score": 0.6293, "tokens": 223, "channel": "web", "country": "SA", "prompt": "refund payment invoice invoice shipping address invoice order"}
+{"score": 0.6516, "tokens": 825, "channel": "web", "country": "AE", "prompt": "address cancel delivery order delivery payment payment cancel cancel card order status"}
+{"score": 0.5748, "tokens": 257, "channel": "web", "country": "SA", "prompt": "delivery delivery invoice subscription status address card account invoice account return return invoice"}
+{"score": 0.6573, "tokens": 78, "channel": "web", "country": "GB", "prompt": "account payment account account address payment return address return account address return"}
+{"score": 0.8969, "tokens": 210, "channel": "web", "country": "SA", "prompt": "subscription order address invoice subscription invoice account card"}
+{"score": 0.7177, "tokens": 90, "channel": "web", "country": "SA", "prompt": "shipping cancel refund shipping order order refund invoice card"}
+{"score": 0.5854, "tokens": 141, "channel": "web", "country": "SA", "prompt": "refund subscription status refund delivery subscription cancel subscription invoice"}
+{"score": 0.734, "tokens": 209, "channel": "app", "country": "SA", "prompt": "refund card address shipping shipping"}
+{"score": 0.4091, "tokens": 220, "channel": "app", "country": "AE", "prompt": "account account invoice status payment address refund"}
+{"score": 0.5047, "tokens": 232, "channel": "web", "country": "GB", "prompt": "account delivery status delivery return status address status status delivery refund card"}
+{"score": 0.6095, "tokens": 194, "channel": "web", "country": "AE", "prompt": "return payment account return payment delivery account card address return"}
+{"score": 0.6708, "tokens": 221, "channel": "web", "country": "AE", "prompt": "subscription account payment return address invoice payment status"}
+{"score": 0.6092, "tokens": 105, "channel": "email", "country": "SA", "prompt": "return card delivery payment status refund status payment"}
+{"score": 0.4418, "tokens": 108, "channel": "web", "country": "ID", "prompt": "cancel status order invoice subscription delivery cancel subscription subscription refund delivery"}
+{"score": 0.8507, "tokens": 153, "channel": "web", "country": "AE", "prompt": "status payment card account address payment account"}
+{"score": 0.6452, "tokens": 103, "channel": "web", "country": "SA", "prompt": "return address shipping refund subscription"}
+{"score": 0.6228, "tokens": 142, "channel": "app", "country": "ID", "prompt": "delivery invoice payment cancel payment return shipping return return"}
+{"score": 0.5922, "tokens": 229, "channel": "email", "country": "SA", "prompt": "delivery status invoice refund status payment address delivery cancel cancel subscription"}
+{"score": 0.5466, "tokens": 69, "channel": "web", "country": "AE", "prompt": "delivery delivery address delivery invoice"}
+{"score": 0.5688, "tokens": 53, "channel": "web", "country": "SA", "prompt": "shipping delivery order refund status shipping subscription delivery cancel refund return card status"}
+{"score": 0.5179, "tokens": 209, "channel": "web", "country": "AE", "prompt": "refund cancel delivery payment account card payment"}
+{"score": 0.4095, "tokens": 189, "channel": "web", "country": "ID", "prompt": "refund delivery order account shipping cancel cancel order status payment account status"}
+{"score": 0.7843, "tokens": 118, "channel": "web", "country": "ID", "prompt": "order return cancel card payment"}
+{"score": 0.3466, "tokens": 103, "channel": "web", "country": "ID", "prompt": "order shipping card subscription address refund shipping subscription invoice card"}
+{"score": 0.8432, "tokens": 255, "channel": "web", "country": "GB", "prompt": "delivery status cancel order card address delivery"}
+{"score": 0.5882, "tokens": 105, "channel": "web", "country": "ID", "prompt": "account cancel delivery return delivery address shipping delivery subscription account"}
+{"score": 0.5532, "tokens": 72, "channel": "web", "country": "SA", "prompt": "invoice card account invoice order status order delivery status address invoice"}
+{"score": 0.5598, "tokens": 151, "channel": "app", "country": "AE", "prompt": "subscription refund status subscription status order return return cancel card"}
+{"score": 0.443, "tokens": 232, "channel": "web", "country": "AE", "prompt": "card address order order delivery"}
+{"score": 0.6592, "tokens": 126, "channel": "app", "country": "ID", "prompt": "payment status payment payment return cancel invoice payment order"}
+{"score": 0.3758, "tokens": 69, "channel": "app", "country": "AE", "prompt": "subscription subscription shipping shipping address subscription shipping invoice delivery delivery delivery"}
+{"score": 0.6152, "tokens": 144, "channel": "web", "country": "AE", "prompt": "account subscription invoice invoice status subscription shipping order"}
+{"score": 0.6818, "tokens": 121, "channel": "email", "country": "AE", "prompt": "account payment payment order account address subscription cancel cancel account order invoice"}
+{"score": 0.7006, "tokens": 188, "channel": "web", "country": "AE", "prompt": "payment order return shipping card refund return subscription"}
+{"score": 0.489, "tokens": 352, "channel": "web", "country": "ID", "prompt": "order invoice status card invoice delivery address delivery refund return shipping refund"}
+{"score": 0.7038, "tokens": 46, "channel": "web", "country": "AE", "prompt": "account order cancel return invoice return card shipping status cancel address shipping status card"}
+{"score": 0.461, "tokens": 147, "channel": "web", "country": "GB", "prompt": "delivery address order order return shipping delivery status address"}
+{"score": 0.4779, "tokens": 181, "channel": "app", "country": "ID", "prompt": "cancel refund return payment subscription shipping payment order order refund order refund delivery"}
+{"score": 0.661, "tokens": 126, "channel": "app", "country": "AE", "prompt": "address delivery return refund order status account shipping order subscription card invoice"}
+{"score": 0.7624, "tokens": 159, "channel": "web", "country": "AE", "prompt": "shipping subscription address status status card invoice return status return cancel address status"}
+{"score": 0.7195, "tokens": 104, "channel": "app", "country": "AE", "prompt": "shipping cancel refund invoice account refund address cancel card refund order"}
+{"score": 0.5907, "tokens": 116, "channel": "web", "country": "SA", "prompt": "subscription payment cancel status refund status refund refund return cancel payment"}
+{"score": 0.6465, "tokens": 78, "channel": "app", "country": "AE", "prompt": "shipping refund order payment shipping address"}
+{"score": 0.5499, "tokens": 130, "channel": "app", "country": "ID", "prompt": "cancel payment refund subscription card subscription invoice status payment invoice delivery"}
+{"score": 0.526, "tokens": 142, "channel": "app", "country": "ID", "prompt": "delivery card subscription account order address status card payment status cancel return"}
+{"score": 0.751, "tokens": 113, "channel": "app", "country": "SA", "prompt": "order invoice shipping account shipping order card card return shipping"}
+{"score": 0.7412, "tokens": 71, "channel": "email", "country": "SA", "prompt": "cancel cancel card order invoice subscription delivery invoice card order shipping subscription"}
+{"score": 0.739, "tokens": 117, "channel": "web", "country": "AE", "prompt": "card delivery order card cancel shipping refund address delivery subscription account return invoice refund"}
+{"score": 0.5521, "tokens": 246, "channel": "web", "country": "SA", "prompt": "cancel account cancel card order payment address card card order shipping order return payment"}
+{"score": 0.6649, "tokens": 343, "channel": "app", "country": "ID", "prompt": "cancel status card subscription delivery delivery account address return"}
+{"score": 0.6532, "tokens": 235, "channel": "web", "country": "AE", "prompt": "card card payment status refund shipping address status shipping"}
+{"score": 0.5704, "tokens": 210, "channel": "web", "country": "ID", "prompt": "cancel status address subscription return order refund subscription order payment"}
+{"score": 0.6346, "tokens": 161, "channel": "app", "country": "SA", "prompt": "status card refund payment return cancel shipping status delivery order delivery"}
+{"score": 0.5004, "tokens": 151, "channel": "web", "country": "AE", "prompt": "order payment return invoice shipping account account refund payment refund return delivery address"}
+{"score": 0.5048, "tokens": 181, "channel": "app", "country": "SA", "prompt": "refund address address payment subscription status payment refund delivery"}
+{"score": 0.4808, "tokens": 102, "channel": "app", "country": "SA", "prompt": "payment address cancel invoice invoice card address status payment card delivery refund order invoice"}
+{"score": 0.6753, "tokens": 133, "channel": "web", "country": "ID", "prompt": "return invoice card cancel order account shipping refund invoice account"}
+{"score": 0.6687, "tokens": 162, "channel": "web", "country": "AE", "prompt": "invoice address payment return address payment payment address"}
+{"score": 0.6791, "tokens": 86, "channel": "web", "country": "AE", "prompt": "status refund cancel delivery cancel account order payment address order card refund"}
+{"score": 0.4698, "tokens": 271, "channel": "web", "country": "SA", "prompt": "address cancel refund cancel order cancel"}
+{"score": 0.5881, "tokens": 101, "channel": "web", "country": "AE", "prompt": "delivery return address order address status status account refund"}
+{"score": 0.672, "tokens": 373, "channel": "app", "country": "ID", "prompt": "cancel subscription shipping subscription card"}
+{"score": 0.5563, "tokens": 370, "channel": "email", "country": "SA", "prompt": "invoice return card subscription return delivery order return subscription status"}
+{"score": 0.7596, "tokens": 76, "channel": "web", "country": "ID", "prompt": "order order shipping subscription shipping invoice payment address shipping refund cancel return"}
+{"score": 0.5251, "tokens": 131, "channel": "web", "country": "GB", "prompt": "account cancel order status invoice return refund address invoice card card delivery"}
+{"score": 0.577, "tokens": 185, "channel": "web", "country": "ID", "prompt": "delivery card address shipping card return status order return card"}
+{"score": 0.5606, "tokens": 100, "channel": "email", "country": "SA", "prompt": "payment cancel status invoice shipping order shipping status status"}
+{"score": 0.8287, "tokens": 92, "channel": "web", "country": "SA", "prompt": "card order shipping shipping invoice delivery invoice cancel account account subscription account return account"}
+{"score": 0.6118, "tokens": 135, "channel": "web", "country": "SA", "prompt": "account address cancel payment subscription invoice card account"}
+{"score": 0.4844, "tokens": 57, "channel": "email", "country": "ID", "prompt": "refund order shipping card payment invoice return address return return delivery"}
+{"score": 0.5754, "tokens": 77, "channel": "web", "country": "ID", "prompt": "invoice shipping payment address card refund delivery shipping delivery status refund account subscription delivery"}
+{"score": 0.6995, "tokens": 136, "channel": "app", "country": "AE", "prompt": "return delivery cancel delivery card order invoice invoice shipping"}
+{"score": 0.4749, "tokens": 142, "channel": "app", "country": "SA", "prompt": "status cancel account invoice payment payment cancel account shipping return account return"}
+{"score": 0.4853, "tokens": 152, "channel": "web", "country": "SA", "prompt": "delivery status return order card refund shipping delivery return invoice"}
+{"score": 0.5629, "tokens": 150, "channel": "web", "country": "ID", "prompt": "address invoice shipping payment shipping order refund refund"}
+{"score": 0.6589, "tokens": 71, "channel": "web", "country": "ID", "prompt": "invoice card cancel account delivery card invoice"}
+{"score": 0.6746, "tokens": 49, "channel": "web", "country": "GB", "prompt": "account cancel invoice order delivery payment return account card return order cancel"}
+{"score": 0.606, "tokens": 169, "channel": "web", "country": "AE", "prompt": "delivery subscription card address status payment"}
+{"score": 0.4725, "tokens": 219, "channel": "web", "country": "ID", "prompt": "invoice invoice address account status card return invoice invoice refund"}
+{"score": 0.4684, "tokens": 99, "channel": "web", "country": "AE", "prompt": "shipping shipping return delivery refund status status address shipping"}
+{"score": 0.7337, "tokens": 230, "channel": "email", "country": "AE", "prompt": "order cancel payment cancel cancel refund payment"}
+{"score": 0.5693, "tokens": 441, "channel": "app", "country": "AE", "prompt": "payment shipping account account payment delivery delivery invoice cancel address"}
+{"score": 0.4025, "tokens": 226, "channel": "web", "country": "ID", "prompt": "cancel order order delivery cancel cancel invoice subscription"}
+{"score": 0.6189, "tokens": 180, "channel": "web", "country": "AE", "prompt": "refund invoice invoice account refund delivery address card invoice cancel return"}
+{"score": 0.6346, "tokens": 109, "channel": "web", "country": "SA", "prompt": "shipping card delivery subscription shipping shipping status delivery"}
+{"score": 0.7094, "tokens": 91, "channel": "email", "country": "SA", "prompt": "order payment invoice cancel card return delivery"}
+{"score": 0.6946, "tokens": 82, "channel": "web", "country": "GB", "prompt": "shipping order refund refund payment return shipping delivery cancel payment invoice return shipping"}
+{"score": 0.5804, "tokens": 170, "channel": "web", "country": "SA", "prompt": "shipping return card cancel invoice refund order shipping"}
+{"score": 0.5687, "tokens": 111, "channel": "app", "country": "ID", "prompt": "status shipping return account payment shipping return return account delivery"}
+{"score": 0.5305, "tokens": 214, "channel": "app", "country": "ID", "prompt": "subscription address payment card card card invoice order invoice order payment"}
+{"score": 0.5285, "tokens": 167, "channel": "app", "country": "AE", "prompt": "order account address delivery delivery order card order shipping cancel refund account invoice"}
+{"score": 0.7641, "tokens": 265, "channel": "web", "country": "GB", "prompt": "subscription account status invoice address address subscription"}
+{"score": 0.4287, "tokens": 139, "channel": "web", "country": "AE", "prompt": "cancel delivery delivery cancel payment"}
+{"score": 0.6252, "tokens": 175, "channel": "web", "country": "AE", "prompt": "card refund payment shipping return account card address invoice status status address invoice account"}
+{"score": 0.4225, "tokens": 106, "channel": "email", "country": "AE", "prompt": "shipping payment shipping address shipping"}
+{"score": 0.4125, "tokens": 257, "channel": "web", "country": "SA", "prompt": "delivery subscription account status payment order status cancel status card refund return"}
+{"score": 0.6335, "tokens": 218, "channel": "web", "country": "ID", "prompt": "invoice address payment card cancel payment return"}
+{"score": 0.5097, "tokens": 109, "channel": "web", "country": "AE", "prompt": "order status cancel payment return refund invoice card payment shipping status return status"}
+{"score": 0.8289, "tokens": 146, "channel": "web", "country": "ID", "prompt": "payment subscription payment payment shipping status payment subscription delivery return return subscription"}
+{"score": 0.5324, "tokens": 200, "channel": "web", "country": "AE", "prompt": "account cancel refund cancel delivery refund card status shipping"}
+{"score": 0.8907, "tokens": 170, "channel": "app", "country": "AE", "prompt": "order cancel card address refund shipping shipping subscription"}
+{"score": 0.4881, "tokens": 256, "channel": "app", "country": "ID", "prompt": "order subscription order return status shipping"}
+{"score": 0.648, "tokens": 56, "channel": "app", "country": "SA", "prompt": "status subscription status shipping status refund return shipping delivery status"}
+{"score": 0.5783, "tokens": 163, "channel": "web", "country": "AE", "prompt": "subscription account return invoice address return return"}
+{"score": 0.5111, "tokens": 100, "channel": "web", "country": "SA", "prompt": "cancel return status account refund order address shipping cancel"}
+{"score": 0.5926, "tokens": 160, "channel": "app", "country": "AE", "prompt": "return return card invoice return subscription card card delivery status invoice invoice order"}
+{"score": 0.8515, "tokens": 116, "channel": "web", "country": "SA", "prompt": "order order invoice status cancel address"}
+{"score": 0.5508, "tokens": 138, "channel": "app", "country": "ID", "prompt": "refund invoice refund delivery status shipping invoice"}
+{"score": 0.4578, "tokens": 185, "channel": "web", "country": "AE", "prompt": "payment account account subscription shipping shipping delivery subscription cancel status subscription"}
+{"score": 0.9015, "tokens": 176, "channel": "web", "country": "AE", "prompt": "address subscription card refund payment status return subscription cancel subscription"}
+{"score": 0.597, "tokens": 257, "channel": "web", "country": "ID", "prompt": "card return order account order"}
+{"score": 0.5724, "tokens": 131, "channel": "app", "country": "ID", "prompt": "delivery card status delivery invoice subscription payment"}
+{"score": 0.5734, "tokens": 243, "channel": "app", "country": "AE", "prompt": "account delivery invoice card status status"}
+{"score": 0.5912, "tokens": 149, "channel": "web", "country": "AE", "prompt": "card address delivery subscription card cancel shipping card order payment subscription delivery status refund"}
+{"score": 0.6929, "tokens": 140, "channel": "web", "country": "GB", "prompt": "card subscription subscription status delivery delivery"}
+{"score": 0.5863, "tokens": 133, "channel": "web", "country": "ID", "prompt": "address card return invoice delivery status subscription invoice delivery account return cancel"}
+{"score": 0.5681, "tokens": 213, "channel": "web", "country": "SA", "prompt": "payment payment card payment refund refund address refund card account subscription address invoice"}
+{"score": 0.5766, "tokens": 178, "channel": "app", "country": "SA", "prompt": "cancel shipping refund subscription invoice return cancel cancel account"}
+{"score": 0.7993, "tokens": 77, "channel": "web", "country": "ID", "prompt": "cancel order card order cancel address order card"}
+{"score": 0.3749, "tokens": 105, "channel": "web", "country": "ID", "prompt": "shipping return return refund payment subscription card payment shipping order payment"}
+{"score": 0.7537, "tokens": 107, "channel": "web", "country": "AE", "prompt": "invoice delivery payment delivery account return return subscription shipping return"}
+{"score": 0.5378, "tokens": 221, "channel": "web", "country": "AE", "prompt": "delivery return return return invoice invoice card delivery cancel status delivery delivery payment"}
+{"score": 0.8085, "tokens": 100, "channel": "web", "country": "AE", "prompt": "order card card return delivery status address return return refund subscription"}
+{"score": 0.6308, "tokens": 182, "channel": "app", "country": "SA", "prompt": "refund return status payment return status payment card invoice return order refund account order"}
+{"score": 0.8659, "tokens": 175, "channel": "web", "country": "SA", "prompt": "shipping account refund subscription invoice account"}
+{"score": 0.7373, "tokens": 147, "channel": "web", "country": "SA", "prompt": "refund invoice card delivery cancel subscription shipping order return refund card"}
+{"score": 0.5492, "tokens": 99, "channel": "web", "country": "SA", "prompt": "shipping card refund cancel invoice order"}
+{"score": 0.6967, "tokens": 278, "channel": "app", "country": "ID", "prompt": "subscription address status address address card shipping payment shipping order shipping address"}
+{"score": 0.5893, "tokens": 302, "channel": "app", "country": "AE", "prompt": "account shipping cancel status cancel delivery card account delivery order refund subscription"}
+{"score": 0.7534, "tokens": 172, "channel": "web", "country": "ID", "prompt": "address payment order return return address address address account subscription"}
+{"score": 0.8408, "tokens": 189, "channel": "web", "country": "ID", "prompt": "return refund card order shipping status address shipping subscription status payment card"}
+{"score": 0.4577, "tokens": 247, "channel": "app", "country": "AE", "prompt": "order invoice invoice order delivery cancel invoice refund order status address"}
+{"score": 0.5772, "tokens": 106, "channel": "app", "country": "SA", "prompt": "delivery account return status card account"}
+{"score": 0.6101, "tokens": 157, "channel": "web", "country": "SA", "prompt": "delivery shipping refund subscription invoice invoice payment payment order"}
+{"score": 0.6094, "tokens": 127, "channel": "web", "country": "SA", "prompt": "payment subscription cancel refund refund payment subscription address invoice subscription"}
+{"score": 0.5589, "tokens": 118, "channel": "web", "country": "AE", "prompt": "status invoice cancel order payment account refund account"}
+{"score": 0.5378, "tokens": 102, "channel": "app", "country": "AE", "prompt": "payment address shipping card subscription address order status"}
+{"score": 0.7279, "tokens": 86, "channel": "email", "country": "ID", "prompt": "payment refund refund refund cancel card address payment status address subscription"}
+{"score": 0.5671, "tokens": 158, "channel": "email", "country": "AE", "prompt": "return invoice refund cancel address refund"}
+{"score": 0.8285, "tokens": 96, "channel": "app", "country": "AE", "prompt": "card address return status shipping payment invoice"}
+{"score": 0.6565, "tokens": 83, "channel": "web", "country": "SA", "prompt": "payment order payment invoice invoice shipping"}
+{"score": 0.6131, "tokens": 311, "channel": "web", "country": "AE", "prompt": "status return address account address status status shipping"}
+{"score": 0.7064, "tokens": 119, "channel": "web", "country": "ID", "prompt": "order address payment shipping return status order"}
+{"score": 0.5044, "tokens": 99, "channel": "app", "country": "ID", "prompt": "shipping card subscription cancel subscription status delivery invoice"}
+{"score": 0.5614, "tokens": 345, "channel": "web", "country": "AE", "prompt": "refund address account card account order address cancel status shipping account order"}
+{"score": 0.7888, "tokens": 119, "channel": "web", "country": "AE", "prompt": "subscription payment refund shipping account order order invoice account refund"}
+{"score": 0.545, "tokens": 138, "channel": "web", "country": "GB", "prompt": "subscription account return status delivery status"}
+{"score": 0.4367, "tokens": 103, "channel": "web", "country": "SA", "prompt": "invoice cancel address order delivery card return shipping shipping status refund order order"}
+{"score": 0.5912, "tokens": 162, "channel": "web", "country": "AE", "prompt": "delivery address invoice cancel account payment"}
+{"score": 0.3643, "tokens": 205, "channel": "web", "country": "AE", "prompt": "subscription shipping refund subscription subscription"}
+{"score": 0.6797, "tokens": 179, "channel": "app", "country": "SA", "prompt": "return return status refund order"}
+{"score": 0.5523, "tokens": 190, "channel": "web", "country": "AE", "prompt": "invoice account card status subscription delivery delivery status subscription cancel refund"}
+{"score": 0.4989, "tokens": 200, "channel": "email", "country": "ID", "prompt": "status address payment payment payment delivery account delivery delivery"}
+{"score": 0.4518, "tokens": 184, "channel": "app", "country": "SA", "prompt": "return invoice invoice subscription refund address refund return card"}
+{"score": 0.5315, "tokens": 216, "channel": "app", "country": "ID", "prompt": "address card invoice payment refund subscription order status shipping invoice invoice order cancel shipping"}
+{"score": 0.5197, "tokens": 261, "channel": "web", "country": "AE", "prompt": "card payment card delivery address return card"}
+{"score": 0.5367, "tokens": 115, "channel": "app", "country": "AE", "prompt": "address account account cancel delivery refund card"}
+{"score": 0.638, "tokens": 184, "channel": "web", "country": "SA", "prompt": "subscription payment delivery subscription invoice address account order cancel"}
+{"score": 0.6158, "tokens": 150, "channel": "web", "country": "AE", "prompt": "order delivery invoice subscription refund refund shipping delivery order order subscription shipping order payment"}
+{"score": 0.6477, "tokens": 112, "channel": "app", "country": "SA", "prompt": "payment refund invoice card address refund card status cancel card"}
+{"score": 0.5948, "tokens": 128, "channel": "app", "country": "AE", "prompt": "invoice payment cancel delivery shipping order card account order refund delivery status"}
+{"score": 0.6745, "tokens": 309, "channel": "web", "country": "AE", "prompt": "subscription invoice payment cancel payment"}
+{"score": 0.8017, "tokens": 91, "channel": "email", "country": "AE", "prompt": "payment refund order card cancel shipping return delivery cancel cancel status address"}
+{"score": 0.3199, "tokens": 262, "channel": "web", "country": "ID", "prompt": "address cancel payment shipping return invoice refund shipping subscription shipping cancel payment status cancel"}
+{"score": 0.5803, "tokens": 118, "channel": "web", "country": "AE", "prompt": "address status account refund card order"}
+{"score": 0.6924, "tokens": 106, "channel": "web", "country": "SA", "prompt": "account delivery delivery subscription subscription subscription"}
+{"score": 0.6266, "tokens": 427, "channel": "web", "country": "SA", "prompt": "cancel invoice status card refund refund status"}
+{"score": 0.6863, "tokens": 128, "channel": "web", "country": "AE", "prompt": "address status return order invoice shipping refund"}
+{"score": 0.5398, "tokens": 191, "channel": "app", "country": "GB", "prompt": "address account order delivery cancel account payment return status account refund card"}
+{"score": 0.4254, "tokens": 245, "channel": "web", "country": "AE", "prompt": "delivery return invoice card order refund refund card invoice cancel address invoice"}
+{"score": 0.6138, "tokens": 228, "channel": "web", "country": "AE", "prompt": "subscription return return order subscription address return account address card"}
+{"score": 0.5506, "tokens": 111, "channel": "web", "country": "AE", "prompt": "subscription return refund return status cancel order order payment card invoice delivery payment"}
+{"score": 0.7419, "tokens": 171, "channel": "web", "country": "AE", "prompt": "return payment order cancel account"}
+{"score": 0.5908, "tokens": 184, "channel": "app", "country": "AE", "prompt": "payment card delivery subscription account delivery"}
+{"score": 0.5615, "tokens": 203, "channel": "web", "country": "ID", "prompt": "subscription payment invoice subscription subscription cancel subscription cancel cancel"}
+{"score": 0.5767, "tokens": 175, "channel": "web", "country": "AE", "prompt": "account card return order delivery"}
+{"score": 0.6071, "tokens": 251, "channel": "web", "country": "GB", "prompt": "address subscription card account subscription card order"}
+{"score": 0.8101, "tokens": 159, "channel": "web", "country": "ID", "prompt": "cancel subscription return cancel payment address return order card return shipping order"}
+{"score": 0.5391, "tokens": 165, "channel": "web", "country": "SA", "prompt": "order return return subscription account payment return order payment shipping payment account subscription"}
+{"score": 0.6448, "tokens": 263, "channel": "email", "country": "SA", "prompt": "refund subscription order shipping address address shipping"}
+{"score": 0.4411, "tokens": 99, "channel": "web", "country": "AE", "prompt": "delivery payment invoice card address card return account account refund"}
+{"score": 0.5113, "tokens": 152, "channel": "web", "country": "ID", "prompt": "return order shipping payment refund account refund return address payment"}
+{"score": 0.379, "tokens": 101, "channel": "email", "country": "ID", "prompt": "delivery address subscription refund account order subscription status return"}
+{"score": 0.8087, "tokens": 81, "channel": "email", "country": "AE", "prompt": "payment shipping refund address return return card status"}
+{"score": 0.5896, "tokens": 470, "channel": "email", "country": "AE", "prompt": "status return order status shipping address cancel delivery cancel shipping shipping"}
+{"score": 0.5442, "tokens": 146, "channel": "web", "country": "ID", "prompt": "account shipping payment order invoice invoice invoice refund"}
+{"score": 0.401, "tokens": 210, "channel": "web", "country": "AE", "prompt": "order cancel payment invoice return delivery order account payment account payment"}
+{"score": 0.4411, "tokens": 116, "channel": "web", "country": "SA", "prompt": "card payment shipping status payment account"}
+{"score": 0.5946, "tokens": 329, "channel": "web", "country": "AE", "prompt": "invoice account card shipping delivery shipping payment address order payment delivery delivery refund refund"}
+{"score": 0.7236, "tokens": 116, "channel": "email", "country": "ID", "prompt": "card order shipping return refund invoice card order card account address invoice payment"}
+{"score": 0.6509, "tokens": 174, "channel": "web", "country": "SA", "prompt": "order delivery cancel status card invoice cancel card shipping shipping account card cancel address"}
+{"score": 0.7319, "tokens": 127, "channel": "app", "country": "AE", "prompt": "shipping account cancel return delivery shipping account delivery card cancel order"}
+{"score": 0.5352, "tokens": 86, "channel": "email", "country": "AE", "prompt": "account return order return card address payment shipping shipping"}
+{"score": 0.6448, "tokens": 152, "channel": "web", "country": "AE", "prompt": "account subscription refund account invoice card account delivery invoice order return card shipping card"}
+{"score": 0.5102, "tokens": 347, "channel": "web", "country": "AE", "prompt": "shipping invoice delivery delivery subscription card card"}
+{"score": 0.6293, "tokens": 114, "channel": "web", "country": "SA", "prompt": "status card address subscription refund refund status subscription status cancel shipping return"}
+{"score": 0.5721, "tokens": 134, "channel": "web", "country": "AE", "prompt": "card cancel card order account order address return return payment refund status status"}
+{"score": 0.7661, "tokens": 168, "channel": "web", "country": "AE", "prompt": "delivery cancel order invoice order cancel payment payment card payment"}
+{"score": 0.4759, "tokens": 197, "channel": "app", "country": "SA", "prompt": "order cancel order subscription order refund status"}
+{"score": 0.6787, "tokens": 130, "channel": "web", "country": "AE", "prompt": "shipping return card account subscription address shipping shipping payment shipping account cancel order return"}
+{"score": 0.7426, "tokens": 231, "channel": "email", "country": "AE", "prompt": "invoice order card card return status card delivery address card invoice"}
+{"score": 0.7034, "tokens": 77, "channel": "web", "country": "AE", "prompt": "refund cancel order refund shipping"}
+{"score": 0.528, "tokens": 34, "channel": "app", "country": "AE", "prompt": "refund delivery return delivery delivery payment account"}
+{"score": 0.6036, "tokens": 204, "channel": "web", "country": "ID", "prompt": "cancel status delivery return order refund account invoice"}
+{"score": 0.6187, "tokens": 78, "channel": "web", "country": "ID", "prompt": "order cancel account delivery account status account subscription status account"}
+{"score": 0.4818, "tokens": 137, "channel": "web", "country": "SA", "prompt": "account card return account payment"}
+{"score": 0.5186, "tokens": 114, "channel": "email", "country": "AE", "prompt": "delivery refund subscription address delivery refund cancel shipping order return refund invoice invoice"}
+{"score": 0.4856, "tokens": 174, "channel": "web", "country": "GB", "prompt": "invoice delivery status cancel cancel shipping"}
+{"score": 0.4902, "tokens": 68, "channel": "web", "country": "AE", "prompt": "refund invoice order return return cancel card invoice delivery return refund"}
+{"score": 0.628, "tokens": 140, "channel": "email", "country": "ID", "prompt": "cancel subscription refund card invoice address status return address shipping card card"}
+{"score": 0.4918, "tokens": 158, "channel": "app", "country": "AE", "prompt": "address subscription order return subscription card order invoice invoice shipping card refund shipping address"}
+{"score": 0.5644, "tokens": 223, "channel": "email", "country": "AE", "prompt": "cancel status account account return refund subscription delivery cancel invoice shipping delivery"}
+{"score": 0.7581, "tokens": 152, "channel": "web", "country": "SA", "prompt": "payment cancel cancel refund shipping payment payment"}
+{"score": 0.409, "tokens": 106, "channel": "email", "country": "ID", "prompt": "cancel account account invoice card card"}
+{"score": 0.3717, "tokens": 372, "channel": "web", "country": "AE", "prompt": "order account card account order"}
+{"score": 0.6186, "tokens": 97, "channel": "web", "country": "GB", "prompt": "return account payment delivery payment delivery invoice shipping address payment payment"}
+{"score": 0.4481, "tokens": 142, "channel": "app", "country": "AE", "prompt": "cancel order return delivery card address delivery return"}
+{"score": 0.6611, "tokens": 211, "channel": "web", "country": "GB", "prompt": "card shipping order invoice cancel"}
+{"score": 0.769, "tokens": 174, "channel": "email", "country": "SA", "prompt": "status payment card refund status card"}
+{"score": 0.776, "tokens": 168, "channel": "app", "country": "AE", "prompt": "refund account return status shipping order cancel cancel order shipping invoice payment order subscription"}
+{"score": 0.3866, "tokens": 100, "channel": "web", "country": "AE", "prompt": "invoice shipping address return invoice return"}
+{"score": 0.494, "tokens": 200, "channel": "web", "country": "SA", "prompt": "invoice status return delivery cancel status invoice cancel"}
+{"score": 0.625, "tokens": 212, "channel": "email", "country": "AE", "prompt": "order status address shipping account cancel"}
+{"score": 0.5701, "tokens": 327, "channel": "email", "country": "SA", "prompt": "card account order delivery card card cancel shipping shipping"}
+{"score": 0.8298, "tokens": 130, "channel": "app", "country": "AE", "prompt": "shipping cancel subscription subscription delivery payment return account subscription card refund shipping order"}
+{"score": 0.6522, "tokens": 111, "channel": "web", "country": "AE", "prompt": "refund shipping return account status return cancel"}
+{"score": 0.6296, "tokens": 76, "channel": "web", "country": "ID", "prompt": "order shipping shipping address account refund order order cancel delivery subscription return"}
+{"score": 0.6205, "tokens": 192, "channel": "email", "country": "ID", "prompt": "refund order order status refund order payment payment refund subscription delivery"}
+{"score": 0.5458, "tokens": 95, "channel": "app", "country": "ID", "prompt": "card address shipping delivery card"}
+{"score": 0.6778, "tokens": 150, "channel": "web", "country": "SA", "prompt": "account order delivery shipping invoice delivery order"}
+{"score": 0.764, "tokens": 284, "channel": "email", "country": "AE", "prompt": "order invoice status order address cancel address cancel account"}
+{"score": 0.7902, "tokens": 62, "channel": "email", "country": "SA", "prompt": "card delivery account refund subscription subscription card delivery refund account"}
+{"score": 0.8348, "tokens": 124, "channel": "web", "country": "SA", "prompt": "delivery return payment order address"}
+{"score": 0.7769, "tokens": 60, "channel": "web", "country": "AE", "prompt": "cancel shipping return cancel cancel"}
+{"score": 0.7087, "tokens": 126, "channel": "web", "country": "SA", "prompt": "account order status order return return return invoice invoice"}
+{"score": 0.5918, "tokens": 103, "channel": "web", "country": "ID", "prompt": "cancel subscription payment address order address subscription"}
+{"score": 0.6523, "tokens": 285, "channel": "app", "country": "ID", "prompt": "refund return card shipping delivery return invoice cancel status order account refund status payment"}
+{"score": 0.5887, "tokens": 193, "channel": "web", "country": "SA", "prompt": "invoice subscription address shipping invoice refund payment invoice invoice shipping shipping payment"}
+{"score": 0.6815, "tokens": 88, "channel": "web", "country": "SA", "prompt": "card order payment shipping address status account shipping card payment order"}
+{"score": 0.7147, "tokens": 194, "channel": "email", "country": "AE", "prompt": "delivery shipping account refund address return subscription subscription invoice cancel address"}
+{"score": 0.6333, "tokens": 163, "channel": "web", "country": "ID", "prompt": "account order cancel refund order status"}
+{"score": 0.9011, "tokens": 140, "channel": "web", "country": "AE", "prompt": "cancel return subscription cancel account refund payment"}
+{"score": 0.4748, "tokens": 298, "channel": "web", "country": "ID", "prompt": "address status invoice delivery address invoice card shipping payment return account"}
+{"score": 0.7204, "tokens": 71, "channel": "web", "country": "AE", "prompt": "refund payment return address address invoice delivery order subscription card subscription shipping"}
+{"score": 0.598, "tokens": 275, "channel": "web", "country": "SA", "prompt": "subscription payment status status status account subscription shipping refund refund invoice"}
+{"score": 0.5148, "tokens": 124, "channel": "web", "country": "AE", "prompt": "delivery address status delivery shipping order status status card account"}
+{"score": 0.6634, "tokens": 257, "channel": "web", "country": "AE", "prompt": "status cancel payment delivery subscription status shipping subscription order shipping"}
+{"score": 0.7782, "tokens": 473, "channel": "web", "country": "ID", "prompt": "return account card account cancel account refund delivery refund refund invoice"}
+{"score": 0.7266, "tokens": 226, "channel": "web", "country": "ID", "prompt": "payment return delivery return invoice status"}
+{"score": 0.3983, "tokens": 201, "channel": "web", "country": "AE", "prompt": "payment return order refund payment payment refund card account refund"}
+{"score": 0.6753, "tokens": 188, "channel": "email", "country": "AE", "prompt": "subscription payment address status cancel address address status shipping address payment"}
+{"score": 0.5518, "tokens": 225, "channel": "app", "country": "AE", "prompt": "refund order card refund invoice address refund status subscription"}
+{"score": 0.5953, "tokens": 133, "channel": "app", "country": "ID", "prompt": "account order subscription invoice delivery order return card"}
+{"score": 0.6285, "tokens": 197, "channel": "web", "country": "AE", "prompt": "invoice order address order shipping account refund account refund"}
+{"score": 0.7145, "tokens": 159, "channel": "web", "country": "AE", "prompt": "status delivery payment subscription refund invoice status status account address refund order delivery subscription"}
+{"score": 0.6218, "tokens": 252, "channel": "web", "country": "GB", "prompt": "invoice return return order payment delivery"}
+{"score": 0.4817, "tokens": 49, "channel": "web", "country": "AE", "prompt": "return return cancel order return status account"}
+{"score": 0.4791, "tokens": 231, "channel": "web", "country": "SA", "prompt": "return return subscription shipping shipping invoice subscription delivery"}
+{"score": 0.6508, "tokens": 162, "channel": "app", "country": "SA", "prompt": "shipping payment card card address order subscription address shipping order address"}
+{"score": 0.6638, "tokens": 75, "channel": "web", "country": "AE", "prompt": "delivery account address order refund"}
+{"score": 0.5106, "tokens": 237, "channel": "web", "country": "AE", "prompt": "refund card account shipping cancel account"}
+{"score": 0.5742, "tokens": 143, "channel": "app", "country": "AE", "prompt": "order delivery invoice subscription refund"}
+{"score": 0.4897, "tokens": 299, "channel": "web", "country": "AE", "prompt": "account invoice subscription payment shipping cancel card"}
+{"score": 0.6477, "tokens": 176, "channel": "email", "country": "ID", "prompt": "address status payment account status payment card"}
+{"score": 0.7267, "tokens": 149, "channel": "app", "country": "AE", "prompt": "cancel payment invoice order cancel account shipping order cancel payment order shipping order invoice"}
+{"score": 0.6147, "tokens": 149, "channel": "web", "country": "ID", "prompt": "cancel status order invoice payment card status payment card"}
+{"score": 0.5858, "tokens": 155, "channel": "web", "country": "GB", "prompt": "status cancel return payment return delivery account delivery payment"}
+{"score": 0.4747, "tokens": 211, "channel": "app", "country": "ID", "prompt": "return account subscription shipping address card payment payment subscription"}
+{"score": 0.5958, "tokens": 69, "channel": "web", "country": "SA", "prompt": "return order invoice cancel shipping address invoice invoice card"}
+{"score": 0.6094, "tokens": 218, "channel": "app", "country": "SA", "prompt": "status status refund cancel subscription status cancel order subscription shipping refund delivery invoice account"}
+{"score": 0.6232, "tokens": 155, "channel": "app", "country": "SA", "prompt": "cancel payment cancel card invoice invoice cancel account"}
+{"score": 0.5932, "tokens": 383, "channel": "email", "country": "AE", "prompt": "subscription invoice invoice address shipping card subscription refund account payment payment refund payment"}
+{"score": 0.7109, "tokens": 114, "channel": "web", "country": "ID", "prompt": "subscription refund delivery payment cancel invoice status payment invoice order address payment address order"}
+{"score": 0.8563, "tokens": 58, "channel": "web", "country": "AE", "prompt": "subscription status address return subscription card refund order"}
+{"score": 0.4327, "tokens": 110, "channel": "app", "country": "AE", "prompt": "delivery account card status address delivery return order order"}
+{"score": 0.3606, "tokens": 289, "channel": "web", "country": "AE", "prompt": "order account payment subscription card delivery subscription refund status subscription payment return"}
+{"score": 0.5735, "tokens": 122, "channel": "web", "country": "AE", "prompt": "address refund order refund status refund card invoice subscription"}
+{"score": 0.615, "tokens": 50, "channel": "web", "country": "GB", "prompt": "account order invoice payment address address status delivery invoice shipping invoice card"}
+{"score": 0.62, "tokens": 76, "channel": "app", "country": "SA", "prompt": "delivery return refund cancel subscription refund invoice"}
+{"score": 0.5437, "tokens": 77, "channel": "web", "country": "GB", "prompt": "shipping delivery subscription account subscription status status card subscription card account"}
+{"score": 0.5216, "tokens": 103, "channel": "email", "country": "AE", "prompt": "payment invoice subscription refund cancel account account"}
+{"score": 0.6587, "tokens": 92, "channel": "app", "country": "SA", "prompt": "address invoice refund address payment invoice refund delivery refund"}
+{"score": 0.6693, "tokens": 116, "channel": "web", "country": "GB", "prompt": "account delivery invoice address payment subscription payment order account status"}
+{"score": 0.502, "tokens": 173, "channel": "app", "country": "AE", "prompt": "shipping shipping account delivery invoice payment invoice refund account payment return account return account"}
+{"score": 0.7892, "tokens": 148, "channel": "app", "country": "SA", "prompt": "cancel subscription delivery refund invoice"}
+{"score": 0.6412, "tokens": 163, "channel": "app", "country": "AE", "prompt": "payment order payment return return status return invoice payment subscription address cancel shipping order"}
+{"score": 0.6443, "tokens": 188, "channel": "web", "country": "SA", "prompt": "status account invoice return account shipping refund order"}
+{"score": 0.7231, "tokens": 222, "channel": "email", "country": "AE", "prompt": "account account payment delivery delivery subscription payment payment cancel card delivery card delivery return"}
+{"score": 0.6664, "tokens": 67, "channel": "app", "country": "ID", "prompt": "return address card address invoice refund refund"}
+{"score": 0.7176, "tokens": 212, "channel": "app", "country": "SA", "prompt": "card card return return status payment address subscription invoice subscription account refund"}
+{"score": 0.4646, "tokens": 118, "channel": "email", "country": "GB", "prompt": "order order invoice account payment cancel delivery delivery refund"}
+{"score": 0.6651, "tokens": 81, "channel": "web", "country": "AE", "prompt": "order subscription address subscription refund order shipping subscription"}
+{"score": 0.7576, "tokens": 284, "channel": "email", "country": "AE", "prompt": "delivery account refund address invoice payment account"}
+{"score": 0.6733, "tokens": 259, "channel": "app", "country": "ID", "prompt": "subscription shipping order delivery address return delivery invoice subscription return"}
+{"score": 0.6566, "tokens": 99, "channel": "email", "country": "ID", "prompt": "refund delivery cancel cancel account shipping invoice address"}
+{"score": 0.7603, "tokens": 69, "channel": "email", "country": "GB", "prompt": "cancel status subscription subscription delivery card refund card return payment"}
+{"score": 0.6079, "tokens": 179, "channel": "app", "country": "ID", "prompt": "delivery subscription delivery delivery status status return address shipping payment shipping cancel return"}
+{"score": 0.5801, "tokens": 305, "channel": "web", "country": "SA", "prompt": "shipping return cancel account delivery account payment address address card return account"}
