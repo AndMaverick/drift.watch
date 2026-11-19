@@ -8,7 +8,7 @@ WORDS = ["refund", "order", "delivery", "invoice", "account", "card", "payment",
 
 
 def row(shift=0.0, channels=(0.55, 0.30, 0.15), arabic=0.0):
-    prompt = ("أريد استرداد المبلغ عن طلبي رقم %d" % rnd.randint(1000, 9999)) if rnd.random() < arabic else \
+    prompt = f"أريد استرداد المبلغ عن طلبي رقم {rnd.randint(1000, 9999)}" if rnd.random() < arabic else \
         " ".join(rnd.choices(WORDS, k=rnd.randint(5, 14)))
     return {"score": round(rnd.gauss(0.62 + shift, 0.12), 4), "tokens": int(rnd.lognormvariate(5.0, 0.5)),
             "channel": rnd.choices(["web", "app", "email"], channels)[0],
