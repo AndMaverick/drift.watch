@@ -92,6 +92,8 @@ python -m unittest discover -s tests -t . -v
 
 66 tests, including simulation checks of the p value calibration, the noise floor and the false alarm rate. Ruff and mypy strict run in CI on Python 3.10 to 3.13.
 
+**Related repositories:** [eval.forge](https://github.com/AndMaverick/eval.forge) asks whether a score change is real before you ship. [mao-framework](https://github.com/AndMaverick/mao-framework) has a smaller module, `mao.assure`, with drift statistics and an incident register.
+
 MIT licensed. Built by [AndMaverick LLC](https://www.andmaverick.com).
 
 ---
